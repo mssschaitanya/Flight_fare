@@ -1,0 +1,2086 @@
+Unnamed: 0,Airline,Source,Destination,Total_Stops,Price,Day,Month,Dep_hour,Dep_minute,Duration_hour,Duration_minute
+10598,Jet Airways,Delhi,Cochin,1,12373,5,9,18,15,24,45
+6681,Jet Airways,Delhi,Cochin,1,10262,6,9,13,0,23,35
+2139,Jet Airways,Banglore,New Delhi,1,12284,18,3,5,45,12,40
+6443,IndiGo,Delhi,Cochin,1,6058,5,9,21,50,5,45
+4278,Jet Airways,Kolkata,Banglore,1,9663,5,1,8,25,24,55
+33,Jet Airways,Delhi,Cochin,2,10919,15,6,14,35,22,0
+7337,Jet Airways,Banglore,New Delhi,1,11087,18,3,22,50,9,25
+6027,IndiGo,Banglore,New Delhi,0,8033,24,3,18,25,2,55
+8938,Air India,Kolkata,Banglore,1,10203,5,12,10,0,13,15
+8282,SpiceJet,Mumbai,Hyderabad,0,1965,15,6,22,45,1,30
+2975,IndiGo,Delhi,Cochin,1,6704,5,9,14,20,8,10
+6757,Jet Airways,Kolkata,Banglore,1,10844,24,5,18,55,17,5
+6273,Air India,Delhi,Cochin,2,12199,18,5,17,15,14,25
+7368,Jet Airways,Delhi,Cochin,2,13029,21,5,9,40,18,45
+7810,Jet Airways,Delhi,Cochin,1,17024,3,6,22,20,21,25
+3486,IndiGo,Kolkata,Banglore,1,11160,6,12,9,20,4,55
+4983,Jet Airways,Kolkata,Banglore,1,8586,21,5,6,30,22,10
+1252,Multiple carriers,Delhi,Cochin,1,11622,6,9,8,30,10,30
+1441,IndiGo,Banglore,Delhi,0,4823,15,4,18,25,2,55
+562,Multiple carriers,Delhi,Cochin,1,7408,15,6,18,0,7,30
+1874,Jet Airways,Banglore,New Delhi,1,11087,3,12,20,35,19,35
+5393,Jet Airways,Delhi,Cochin,2,11507,27,6,21,25,21,35
+3934,SpiceJet,Mumbai,Hyderabad,0,2017,21,6,22,45,1,30
+532,Jet Airways,Delhi,Cochin,1,10262,6,6,18,15,10,10
+3131,Multiple carriers,Delhi,Cochin,1,14067,21,5,17,30,8,0
+1837,Air India,Banglore,New Delhi,1,9292,3,9,17,0,23,40
+3068,IndiGo,Chennai,Kolkata,0,3858,18,3,11,35,2,25
+7490,Jet Airways,Banglore,New Delhi,0,7229,24,3,8,20,2,55
+1399,IndiGo,Delhi,Cochin,1,13753,3,3,5,35,4,35
+2262,Jet Airways,Kolkata,Banglore,1,9663,15,5,18,55,14,25
+7824,Vistara,Kolkata,Banglore,1,9187,21,5,17,0,17,45
+7680,IndiGo,Kolkata,Banglore,0,4174,15,4,22,15,2,35
+9257,Jet Airways,Mumbai,Hyderabad,0,3210,27,6,2,55,1,25
+4822,Air India,Kolkata,Banglore,2,14083,24,5,7,0,18,20
+35,IndiGo,Delhi,Cochin,1,5894,27,6,10,35,10,25
+5940,SpiceJet,Mumbai,Hyderabad,0,1965,6,6,13,15,1,30
+6597,GoAir,Delhi,Cochin,1,3948,27,6,10,35,9,0
+4947,IndiGo,Banglore,Delhi,0,3943,27,6,23,30,2,50
+6344,Air Asia,Banglore,Delhi,0,4282,18,4,4,55,2,50
+7781,Jet Airways,Kolkata,Banglore,1,14781,18,5,20,0,13,20
+6214,Jet Airways,Kolkata,Banglore,1,14571,24,5,14,5,8,30
+39,Jet Airways,Delhi,Cochin,1,14924,6,3,7,5,11,55
+5737,Air India,Banglore,Delhi,0,6961,6,1,10,0,2,45
+7149,Jet Airways,Banglore,New Delhi,1,13817,3,12,22,55,16,20
+8252,SpiceJet,Banglore,Delhi,0,5515,18,4,21,10,2,55
+2253,SpiceJet,Mumbai,Hyderabad,0,2017,27,6,13,15,1,30
+3481,Multiple carriers,Delhi,Cochin,1,7005,27,5,10,20,10,40
+8451,Jet Airways,Banglore,New Delhi,1,26890,3,1,22,50,6,15
+5780,Jet Airways,Kolkata,Banglore,1,14388,5,12,21,10,14,50
+8341,Air India,Delhi,Cochin,0,5201,6,3,5,10,2,50
+10140,Multiple carriers,Delhi,Cochin,1,8937,15,6,8,30,10,45
+6223,Air India,Kolkata,Banglore,1,6612,5,12,12,0,25,15
+9463,Air Asia,Kolkata,Banglore,0,3807,18,6,22,50,2,30
+3498,Jet Airways,Kolkata,Banglore,1,10703,24,5,9,35,28,50
+1477,IndiGo,Mumbai,Hyderabad,0,4392,27,3,9,10,1,30
+9651,Jet Airways,Mumbai,Hyderabad,0,5678,24,3,2,55,1,30
+10079,Multiple carriers,Delhi,Cochin,1,14848,21,5,13,0,6,15
+5555,Multiple carriers,Delhi,Cochin,1,15603,3,3,7,0,8,30
+4456,IndiGo,Chennai,Kolkata,0,3597,6,6,13,15,2,20
+5245,Air India,Kolkata,Banglore,2,15107,21,5,14,30,8,45
+469,Vistara,Banglore,Delhi,0,4668,5,3,7,0,2,40
+2987,Multiple carriers,Delhi,Cochin,2,15965,6,12,15,5,10,25
+7147,Multiple carriers,Delhi,Cochin,1,10529,15,5,7,30,11,30
+7634,Jet Airways,Kolkata,Banglore,1,8586,5,6,6,30,27,35
+3445,Jet Airways,Delhi,Cochin,1,14714,6,6,11,30,16,55
+251,Air India,Delhi,Cochin,2,10651,6,1,19,45,23,30
+10464,Jet Airways,Banglore,New Delhi,1,12284,18,3,11,40,6,45
+8433,Air India,Banglore,New Delhi,1,6987,21,3,6,55,16,25
+135,Jet Airways,Delhi,Cochin,2,15129,18,5,19,10,23,50
+2406,Jet Airways,Kolkata,Banglore,1,12692,6,9,20,25,24,40
+9240,Air India,Kolkata,Banglore,2,11458,6,6,9,25,15,55
+4402,Air India,Mumbai,Hyderabad,2,13757,3,6,5,30,9,20
+2035,Air India,Kolkata,Banglore,1,8366,5,9,9,25,22,30
+1255,Jet Airways,Kolkata,Banglore,1,13941,5,9,18,55,15,10
+5088,GoAir,Banglore,Delhi,0,5048,18,4,7,45,2,55
+5679,Air India,Banglore,New Delhi,2,12358,3,3,6,45,27,50
+1126,SpiceJet,Kolkata,Banglore,1,4649,6,6,15,5,5,15
+5691,Air India,Delhi,Cochin,2,11071,21,3,6,50,24,50
+3339,Air Asia,Banglore,Delhi,0,4282,15,6,4,55,2,50
+8670,Jet Airways,Delhi,Cochin,1,16079,24,5,22,50,5,35
+5629,IndiGo,Kolkata,Banglore,0,5224,6,9,22,15,2,35
+8211,Jet Airways,Kolkata,Banglore,1,11467,15,5,17,0,21,25
+9788,Jet Airways,Delhi,Cochin,1,10262,6,12,15,0,21,35
+10595,IndiGo,Delhi,Cochin,1,6628,6,3,16,0,9,30
+8233,Multiple carriers,Delhi,Cochin,1,13587,6,9,7,5,13,55
+9129,Jet Airways,Kolkata,Banglore,1,14571,6,6,18,55,24,55
+9481,IndiGo,Banglore,Delhi,0,3943,5,6,10,10,2,50
+2394,IndiGo,Mumbai,Hyderabad,0,3342,5,6,2,35,1,30
+2392,IndiGo,Delhi,Cochin,1,6093,6,3,11,25,9,35
+4149,IndiGo,Kolkata,Banglore,0,4778,3,9,17,15,2,40
+2518,Jet Airways,Delhi,Cochin,2,13029,27,5,19,30,8,55
+3682,IndiGo,Kolkata,Banglore,0,5224,18,5,14,25,2,30
+1503,IndiGo,Chennai,Kolkata,0,3597,5,12,13,15,2,20
+9017,Air India,Delhi,Cochin,1,7480,5,9,20,40,12,45
+1112,IndiGo,Mumbai,Hyderabad,0,2227,21,6,21,20,1,30
+6056,IndiGo,Chennai,Kolkata,0,3858,21,6,11,35,2,25
+3049,Jet Airways,Kolkata,Banglore,1,8586,5,12,6,30,13,20
+9646,Jet Airways,Kolkata,Banglore,1,13584,5,6,18,55,13,20
+4692,Multiple carriers,Delhi,Cochin,1,7888,21,5,10,0,11,0
+8973,Jet Airways,Kolkata,Banglore,1,14781,5,12,14,5,8,30
+6999,Jet Airways,Banglore,Delhi,0,4030,15,5,19,50,3,0
+4067,Jet Airways,Delhi,Cochin,1,12242,27,3,11,30,16,55
+6965,Multiple carriers,Delhi,Cochin,1,12192,27,6,8,0,11,0
+8017,SpiceJet,Chennai,Kolkata,0,3597,15,5,8,20,2,15
+533,Jet Airways,Kolkata,Banglore,1,10031,24,3,8,25,27,35
+4436,Air India,Kolkata,Banglore,1,7893,4,1,20,30,15,30
+8499,Air India,Delhi,Cochin,1,7480,5,9,12,30,20,55
+10028,Jet Airways,Kolkata,Banglore,1,10844,18,5,5,45,14,5
+6865,IndiGo,Banglore,New Delhi,1,5397,15,3,16,55,4,55
+2945,IndiGo,Delhi,Cochin,1,6218,21,3,10,45,4,45
+4348,IndiGo,Kolkata,Banglore,0,5224,27,5,14,25,2,30
+5768,Multiple carriers,Delhi,Cochin,1,9794,5,9,8,45,10,15
+318,Jet Airways,Delhi,Cochin,1,10262,6,1,8,0,20,25
+6362,Vistara,Kolkata,Banglore,1,8452,15,5,7,10,27,35
+8655,Jet Airways,Delhi,Cochin,2,13922,24,6,17,35,25,25
+2512,Jet Airways,Kolkata,Banglore,1,12681,4,1,16,30,23,50
+3156,IndiGo,Kolkata,Banglore,0,4174,4,12,15,30,2,35
+3910,SpiceJet,Delhi,Cochin,1,8488,3,6,8,45,4,30
+939,Jet Airways,Delhi,Cochin,2,14237,6,6,18,25,10,0
+4157,SpiceJet,Kolkata,Banglore,0,3815,21,3,17,15,2,30
+7954,IndiGo,Chennai,Kolkata,0,5277,24,6,22,5,2,20
+7735,IndiGo,Banglore,Delhi,0,3419,4,3,0,30,2,55
+1918,Jet Airways,Banglore,New Delhi,1,26890,3,1,16,55,15,20
+5585,Air Asia,Banglore,Delhi,0,4282,27,4,4,55,2,50
+5494,IndiGo,Kolkata,Banglore,0,5224,6,3,4,40,2,35
+9674,Jet Airways,Delhi,Cochin,0,9564,18,5,11,0,3,15
+7915,Jet Airways,Banglore,New Delhi,1,6992,21,3,11,40,11,20
+3147,Jet Airways,Delhi,Cochin,1,12373,5,9,19,15,23,45
+5635,GoAir,Banglore,Delhi,0,3898,27,4,20,55,2,45
+8874,Jet Airways,Mumbai,Hyderabad,0,5678,6,9,7,5,1,25
+7438,IndiGo,Chennai,Kolkata,0,3597,5,6,13,15,2,20
+3663,IndiGo,Kolkata,Banglore,0,5224,21,6,14,25,2,30
+4973,Jet Airways,Kolkata,Banglore,1,12681,4,1,20,0,20,20
+8324,Jet Airways,Delhi,Cochin,2,16274,27,5,5,30,7,5
+6178,Jet Airways,Delhi,Cochin,1,12373,18,5,9,0,19,25
+10175,IndiGo,Delhi,Cochin,1,6093,6,12,8,50,12,10
+6046,IndiGo,Kolkata,Banglore,0,4174,4,12,21,25,2,40
+9568,Jet Airways,Kolkata,Banglore,1,8586,5,1,18,55,13,20
+10087,Jet Airways,Kolkata,Banglore,1,14151,18,5,20,25,25,40
+4684,Jet Airways,Delhi,Cochin,1,14714,6,1,2,15,10,20
+4242,IndiGo,Mumbai,Hyderabad,0,4049,6,6,9,15,1,30
+1165,Jet Airways,Mumbai,Hyderabad,0,5678,5,12,19,35,1,30
+4324,Multiple carriers,Delhi,Cochin,1,10197,15,5,10,0,9,0
+311,Jet Airways,Delhi,Cochin,1,14714,6,3,16,0,27,0
+5453,Multiple carriers,Delhi,Cochin,1,10197,15,5,8,0,11,0
+1743,Jet Airways,Banglore,Delhi,0,8016,6,12,8,20,3,0
+3089,Jet Airways,Delhi,Cochin,2,11992,6,6,9,25,19,0
+6665,Jet Airways,Mumbai,Hyderabad,0,5678,15,5,2,55,1,25
+8114,Multiple carriers,Delhi,Cochin,1,7888,21,5,13,0,8,0
+4901,Jet Airways,Delhi,Cochin,1,15554,5,9,11,30,7,30
+1379,IndiGo,Chennai,Kolkata,0,3858,6,6,11,35,2,25
+2780,Air Asia,Kolkata,Banglore,0,4384,3,9,22,50,2,30
+8126,Jet Airways,Delhi,Cochin,1,12898,21,5,10,0,26,35
+1979,Air India,Banglore,Delhi,0,5228,24,4,6,10,2,45
+7945,Jet Airways,Kolkata,Banglore,1,13626,6,12,8,25,11,25
+8317,Jet Airways,Delhi,Cochin,1,10262,6,1,11,30,25,5
+8511,Air India,Delhi,Cochin,1,8792,6,1,19,0,24,15
+3793,Air India,Kolkata,Banglore,2,9416,6,12,12,0,19,55
+7467,SpiceJet,Chennai,Kolkata,0,6300,15,3,9,30,2,35
+5694,Jet Airways,Kolkata,Banglore,1,13044,6,12,20,0,13,20
+4941,Air India,Delhi,Cochin,1,11038,3,6,17,40,14,35
+8782,IndiGo,Banglore,Delhi,0,4423,4,12,4,0,2,50
+3998,Jet Airways,Mumbai,Hyderabad,0,5678,18,3,19,35,1,30
+7293,Jet Airways,Banglore,New Delhi,1,9134,15,3,8,0,10,25
+4327,Jet Airways,Delhi,Cochin,1,12373,5,9,10,0,9,0
+9561,IndiGo,Banglore,Delhi,0,4823,4,1,16,55,3,0
+10387,Jet Airways,Delhi,Cochin,2,15544,5,9,5,30,7,5
+4167,Multiple carriers,Delhi,Cochin,1,14848,27,6,11,30,7,45
+8178,Air India,Delhi,Cochin,2,13696,18,5,12,55,30,20
+1585,Jet Airways,Kolkata,Banglore,1,8529,6,12,18,55,27,40
+2632,SpiceJet,Kolkata,Banglore,0,4807,21,4,17,10,2,30
+3,IndiGo,Kolkata,Banglore,1,6218,5,12,18,5,5,25
+2611,Vistara,Kolkata,Banglore,1,7927,6,12,20,20,26,20
+5742,SpiceJet,Mumbai,Hyderabad,0,1965,5,6,5,45,1,30
+6778,Air India,Delhi,Cochin,1,12677,3,3,5,15,25,35
+4761,Multiple carriers,Delhi,Cochin,2,6128,27,3,7,5,14,15
+2361,Jet Airways,Kolkata,Banglore,1,13941,21,5,8,25,23,50
+2206,Multiple carriers,Delhi,Cochin,1,13377,27,6,15,0,10,30
+954,Jet Airways,Delhi,Cochin,1,12898,6,3,21,50,6,35
+2124,Jet Airways,Kolkata,Banglore,1,10031,24,3,19,45,24,55
+8620,Jet Airways,Kolkata,Banglore,1,8066,5,9,9,35,25,20
+4405,Air India,Delhi,Cochin,1,6587,5,9,5,15,25,35
+2441,IndiGo,Mumbai,Hyderabad,0,4049,15,3,9,10,1,30
+1213,Air India,Delhi,Cochin,1,7480,21,5,20,40,12,45
+346,Jet Airways,Delhi,Cochin,1,16079,27,5,10,0,9,0
+9768,Air India,Delhi,Cochin,1,8792,6,1,17,0,26,15
+8575,Jet Airways,Delhi,Cochin,1,10262,27,6,13,0,23,35
+5381,IndiGo,Mumbai,Hyderabad,0,2754,4,3,12,0,1,30
+6430,Jet Airways,Kolkata,Banglore,1,10844,18,5,18,55,28,40
+10338,Multiple carriers,Delhi,Cochin,2,18191,5,9,15,5,10,25
+9696,Multiple carriers,Delhi,Cochin,1,6795,6,12,17,45,7,45
+5808,Multiple carriers,Delhi,Cochin,1,13377,15,6,10,0,15,30
+8002,SpiceJet,Kolkata,Banglore,0,3815,27,3,17,15,2,30
+5318,Air India,Delhi,Cochin,2,13591,27,6,20,15,23,0
+8905,Jet Airways,Delhi,Cochin,1,17024,3,3,21,50,21,0
+10329,Jet Airways,Banglore,New Delhi,1,14815,3,6,14,5,10,40
+10128,Jet Airways,Kolkata,Banglore,1,7757,5,6,21,10,11,5
+8322,Multiple carriers,Delhi,Cochin,1,12192,15,6,3,50,15,10
+518,Multiple carriers,Delhi,Cochin,1,13542,21,3,11,30,14,5
+119,Jet Airways,Delhi,Cochin,1,15554,5,9,7,5,11,55
+8467,SpiceJet,Banglore,Delhi,0,3573,27,6,5,55,2,40
+5661,Multiple carriers,Delhi,Cochin,1,15077,3,6,9,10,10,5
+4397,Jet Airways,Kolkata,Banglore,1,8586,18,5,5,45,26,30
+5655,Vistara,Delhi,Cochin,0,6216,18,4,14,40,3,10
+9817,IndiGo,Delhi,Cochin,1,6093,6,9,4,55,16,5
+2126,GoAir,Delhi,Cochin,1,5052,15,4,7,25,6,10
+1604,Jet Airways,Kolkata,Banglore,1,12681,4,1,8,25,9,50
+2271,Air Asia,Banglore,Delhi,0,4483,5,12,23,55,2,50
+7655,Multiple carriers,Delhi,Cochin,1,9646,15,6,9,45,12,45
+10276,Air India,Kolkata,Banglore,2,10676,5,12,12,0,23,10
+9076,IndiGo,Delhi,Cochin,1,5883,6,12,18,35,6,55
+1185,Multiple carriers,Delhi,Cochin,2,10444,3,6,9,45,11,35
+4123,Jet Airways,Kolkata,Banglore,1,11467,5,1,20,25,13,20
+5066,Air India,Banglore,New Delhi,1,6781,3,3,8,15,14,55
+9329,Vistara,Kolkata,Banglore,1,8452,5,9,17,0,17,45
+7852,IndiGo,Chennai,Kolkata,0,4332,5,12,11,35,2,25
+5340,Jet Airways,Kolkata,Banglore,1,7594,6,12,14,5,14,35
+8214,Multiple carriers,Delhi,Cochin,1,7005,15,6,12,50,8,10
+9553,Jet Airways,Kolkata,Banglore,1,7064,4,1,8,25,9,50
+9079,Multiple carriers,Delhi,Cochin,1,10696,6,3,7,5,15,25
+1613,Jet Airways,Mumbai,Hyderabad,0,5678,27,5,19,35,1,30
+10528,IndiGo,Delhi,Cochin,1,8513,3,3,4,55,11,15
+3294,Jet Airways,Mumbai,Hyderabad,2,21375,3,6,13,5,27,45
+9997,Jet Airways,Kolkata,Banglore,1,10844,5,6,6,30,11,45
+6674,Jet Airways,Banglore,Delhi,0,7229,6,1,11,10,2,55
+2797,Jet Airways,Delhi,Cochin,1,10262,24,6,2,15,26,10
+303,Jet Airways,Delhi,Cochin,2,10368,6,6,5,30,22,55
+10618,Vistara,Banglore,Delhi,0,5613,4,12,17,0,2,35
+8484,Multiple carriers,Delhi,Cochin,1,10197,15,5,3,50,8,45
+5850,IndiGo,Banglore,New Delhi,1,22153,3,1,19,35,5,0
+2287,Jet Airways,Kolkata,Banglore,1,14231,24,3,16,55,23,25
+4339,Jet Airways,Delhi,Cochin,2,14441,6,6,5,30,7,5
+8552,SpiceJet,Delhi,Cochin,1,4414,27,3,8,45,4,30
+7700,SpiceJet,Chennai,Kolkata,0,3597,27,6,17,45,2,20
+8775,SpiceJet,Mumbai,Hyderabad,0,1965,24,6,13,15,1,30
+2167,GoAir,Banglore,Delhi,0,3419,6,6,20,55,2,45
+96,SpiceJet,Banglore,Delhi,0,3257,15,5,5,55,2,40
+8501,Air India,Kolkata,Banglore,1,12173,24,3,20,30,19,45
+10349,IndiGo,Mumbai,Hyderabad,0,2754,15,6,19,5,1,30
+2779,Jet Airways,Kolkata,Banglore,1,12692,6,12,9,35,11,30
+1977,SpiceJet,Kolkata,Banglore,1,8479,6,9,11,35,7,15
+4081,IndiGo,Delhi,Cochin,1,6674,6,6,6,50,15,40
+4133,Air India,Banglore,New Delhi,2,14143,3,6,8,50,31,40
+5457,Jet Airways,Kolkata,Banglore,1,11134,24,3,13,55,9,30
+2962,IndiGo,Delhi,Cochin,1,6316,27,6,16,0,9,30
+8902,IndiGo,Delhi,Cochin,2,6494,27,3,8,35,12,45
+10489,IndiGo,Chennai,Kolkata,0,6297,15,3,22,5,2,25
+3177,Multiple carriers,Delhi,Cochin,1,8401,21,3,10,0,9,15
+8247,Air India,Delhi,Cochin,2,12436,27,5,12,55,30,20
+7041,IndiGo,Banglore,Delhi,0,4823,5,1,18,25,2,55
+565,Multiple carriers,Delhi,Cochin,1,7723,6,1,13,0,12,30
+4765,Jet Airways,Banglore,New Delhi,1,22270,3,1,8,0,8,10
+3410,Jet Airways,Kolkata,Banglore,1,12121,5,1,20,25,14,30
+5403,Multiple carriers,Delhi,Cochin,1,18260,3,9,2,15,10,40
+3165,Vistara,Kolkata,Banglore,1,9345,24,5,20,20,22,30
+5124,Multiple carriers,Delhi,Cochin,1,7933,15,6,9,0,12,0
+7332,Air India,Delhi,Cochin,1,8372,27,6,8,0,11,15
+8537,Jet Airways,Delhi,Cochin,2,9483,4,9,13,25,29,35
+4186,IndiGo,Delhi,Cochin,1,6412,27,6,16,10,6,20
+8716,Multiple carriers,Delhi,Cochin,1,17267,3,6,8,0,7,30
+2961,Jet Airways,Banglore,New Delhi,1,11087,3,9,5,45,5,40
+7708,Multiple carriers,Delhi,Cochin,1,13727,5,9,9,0,12,0
+5132,IndiGo,Banglore,Delhi,0,4990,4,12,20,0,2,50
+2342,IndiGo,Delhi,Cochin,1,13790,3,3,2,35,5,55
+10490,Vistara,Delhi,Cochin,0,6216,27,6,14,40,3,10
+8438,Jet Airways,Kolkata,Banglore,1,9663,5,1,16,30,19,30
+3948,Air India,Delhi,Cochin,2,13538,15,5,13,20,18,20
+1693,Jet Airways,Kolkata,Banglore,1,14388,5,12,18,55,15,10
+1583,Jet Airways,Kolkata,Banglore,1,9663,5,9,21,10,12,55
+8884,IndiGo,Kolkata,Banglore,0,4804,5,1,17,15,2,35
+9231,Air India,Kolkata,Banglore,2,4647,4,3,9,10,19,30
+5335,Multiple carriers,Delhi,Cochin,1,15603,3,3,7,0,6,20
+7477,Air India,Banglore,Delhi,0,5911,4,9,17,0,2,50
+3987,Vistara,Delhi,Cochin,0,6216,21,6,14,40,3,10
+762,Multiple carriers,Delhi,Cochin,1,10791,24,6,10,20,8,40
+457,IndiGo,Chennai,Kolkata,0,3858,27,6,11,35,2,25
+9118,IndiGo,Mumbai,Hyderabad,0,4049,5,3,6,25,1,30
+1028,Jet Airways,Delhi,Cochin,1,12898,21,5,11,30,16,55
+9294,Air India,Delhi,Cochin,2,13381,6,9,14,25,28,50
+7899,SpiceJet,Kolkata,Banglore,1,8224,18,5,15,55,5,30
+9476,IndiGo,Chennai,Kolkata,0,7295,24,3,19,35,2,20
+3880,Jet Airways,Kolkata,Banglore,1,10844,6,9,20,0,27,35
+2027,Jet Airways,Kolkata,Banglore,2,10118,6,6,6,30,24,55
+6553,IndiGo,Kolkata,Banglore,0,4174,4,12,9,35,2,45
+2988,SpiceJet,Banglore,Delhi,0,4423,6,12,9,30,2,50
+107,Multiple carriers,Delhi,Cochin,1,7574,27,3,4,45,14,30
+766,Air India,Kolkata,Banglore,1,6117,5,9,19,0,16,5
+6860,IndiGo,Delhi,Cochin,1,16162,3,9,4,45,8,10
+5843,Jet Airways,Delhi,Cochin,2,13292,24,6,9,35,18,50
+1087,IndiGo,Mumbai,Hyderabad,0,2227,18,5,20,5,1,35
+6563,SpiceJet,Kolkata,Banglore,0,3873,15,5,6,55,2,35
+1641,SpiceJet,Chennai,Kolkata,0,3807,24,3,8,20,2,15
+734,Jet Airways,Mumbai,Hyderabad,0,4995,24,6,7,5,1,25
+3071,GoAir,Kolkata,Banglore,1,4773,24,3,6,35,7,50
+5301,IndiGo,Banglore,Delhi,0,3419,21,5,0,30,2,55
+6121,SpiceJet,Kolkata,Banglore,0,3873,6,12,6,55,2,35
+1204,Air India,Kolkata,Banglore,2,9416,5,9,12,0,19,55
+9846,Multiple carriers,Delhi,Cochin,2,11966,3,3,13,5,8,15
+2493,Jet Airways,Delhi,Cochin,2,13029,5,9,5,30,22,55
+3690,Multiple carriers,Delhi,Cochin,1,7888,21,5,10,0,15,30
+962,Air India,Mumbai,Hyderabad,0,3100,24,5,21,5,1,20
+10217,IndiGo,Kolkata,Banglore,0,4804,27,6,17,15,2,35
+9751,GoAir,Banglore,Delhi,0,3898,5,12,7,45,2,55
+9718,Jet Airways,Banglore,New Delhi,1,13817,3,12,5,45,15,35
+3806,Multiple carriers,Delhi,Cochin,1,7740,6,3,12,50,8,10
+1757,IndiGo,Chennai,Kolkata,0,3850,27,5,7,55,2,20
+3072,Jet Airways,Kolkata,Banglore,1,9663,21,5,6,30,26,50
+3832,Jet Airways,Delhi,Cochin,1,12898,27,5,20,55,15,40
+2320,Multiple carriers,Delhi,Cochin,1,5797,27,6,15,15,10,15
+3541,IndiGo,Mumbai,Hyderabad,0,2754,18,6,2,35,1,30
+6963,IndiGo,Kolkata,Banglore,1,4226,5,1,19,35,3,40
+10615,Jet Airways,Banglore,Delhi,0,7229,4,1,15,15,2,55
+8642,Jet Airways,Kolkata,Banglore,1,11467,15,5,20,25,18,0
+4793,Jet Airways,Delhi,Cochin,1,16289,27,5,7,5,5,30
+3130,IndiGo,Delhi,Cochin,1,12351,3,9,6,40,14,20
+9926,Jet Airways,Delhi,Cochin,1,12557,21,3,18,15,10,10
+3800,Jet Airways,Delhi,Cochin,1,12242,27,3,9,55,18,30
+487,IndiGo,Kolkata,Banglore,1,3717,18,5,19,20,4,25
+9717,Air India,Delhi,Cochin,2,10975,18,5,9,45,23,40
+6914,Jet Airways,Delhi,Cochin,2,15129,27,5,23,5,19,55
+304,IndiGo,Delhi,Cochin,2,8146,3,9,6,40,14,40
+9286,Jet Airways,Delhi,Cochin,1,11848,3,9,2,15,26,10
+5362,Jet Airways,Mumbai,Hyderabad,0,2228,5,6,19,35,1,30
+3476,Air India,Kolkata,Banglore,2,11522,24,3,5,40,32,55
+2689,IndiGo,Delhi,Cochin,0,5000,5,12,14,25,3,15
+6710,Jet Airways,Delhi,Cochin,1,5406,4,1,17,30,19,5
+6855,Multiple carriers,Delhi,Cochin,1,13378,21,3,8,0,11,15
+2155,Multiple carriers,Delhi,Cochin,1,7198,27,6,18,0,7,30
+3715,Jet Airways,Delhi,Cochin,1,15554,5,9,2,15,16,45
+5401,Air India,Kolkata,Banglore,0,6245,21,4,14,15,2,30
+7887,Jet Airways,Banglore,New Delhi,1,9134,15,3,11,40,6,45
+5727,Multiple carriers,Delhi,Cochin,1,18916,3,3,18,15,7,20
+2625,Air India,Delhi,Cochin,1,11038,3,6,6,10,26,5
+1366,IndiGo,Kolkata,Banglore,0,4174,4,12,4,40,2,35
+8986,Vistara,Kolkata,Banglore,1,8085,6,12,20,20,24,0
+4462,Jet Airways,Delhi,Cochin,1,10262,6,6,18,15,24,45
+9590,Jet Airways,Kolkata,Banglore,1,12681,4,1,18,55,21,25
+7249,Air India,Delhi,Cochin,3,12383,6,1,5,15,26,25
+9635,Jet Airways,Delhi,Cochin,1,12242,27,3,15,5,13,20
+6047,SpiceJet,Delhi,Cochin,1,7084,3,9,16,35,6,15
+7643,IndiGo,Kolkata,Banglore,1,5380,6,9,15,15,5,15
+8779,Jet Airways,Delhi,Cochin,1,15764,3,6,13,55,14,30
+2244,Vistara,Delhi,Cochin,0,5586,4,9,6,0,3,10
+6967,Jet Airways,Delhi,Cochin,1,10262,27,6,11,30,25,5
+3219,SpiceJet,Delhi,Cochin,1,7317,21,5,15,45,6,20
+10610,IndiGo,Chennai,Kolkata,0,3597,21,5,13,15,2,20
+7558,Jet Airways,Mumbai,Hyderabad,0,2228,24,3,15,50,1,30
+4003,Jet Airways,Kolkata,Banglore,1,8586,5,1,16,30,15,45
+2930,Air India,Banglore,Delhi,0,6961,18,6,10,0,2,45
+1089,IndiGo,Mumbai,Hyderabad,0,3175,21,3,16,55,1,30
+7727,Jet Airways,Delhi,Cochin,2,15812,6,9,11,40,7,20
+1461,Jet Airways,Delhi,Cochin,1,16289,3,9,17,25,25,25
+7755,Multiple carriers,Delhi,Cochin,1,13377,27,5,18,15,7,15
+2377,Vistara,Mumbai,Hyderabad,1,12395,3,6,8,45,24,40
+8840,Jet Airways,Kolkata,Banglore,1,12681,4,1,18,55,23,20
+1904,Jet Airways,Banglore,Delhi,0,5198,4,12,11,10,2,55
+6360,Multiple carriers,Delhi,Cochin,1,7670,15,5,8,45,12,15
+3758,Jet Airways,Mumbai,Hyderabad,0,3210,5,1,2,55,1,25
+7536,IndiGo,Chennai,Kolkata,0,4332,5,1,11,35,2,25
+592,Jet Airways,Banglore,Delhi,0,6144,21,4,7,10,3,0
+6201,IndiGo,Delhi,Cochin,1,8075,27,3,15,0,10,35
+1073,Air India,Delhi,Cochin,1,7384,6,1,17,40,5,20
+3831,Vistara,Banglore,Delhi,0,4668,15,5,7,0,2,40
+4311,Multiple carriers,Delhi,Cochin,1,8266,15,5,12,50,6,25
+321,Jet Airways,Delhi,Cochin,1,10262,6,9,22,50,5,35
+2357,IndiGo,Banglore,Delhi,0,3943,21,6,22,10,2,50
+6051,IndiGo,Delhi,Cochin,1,6818,18,5,5,5,11,5
+6378,Multiple carriers,Delhi,Cochin,1,10276,3,6,9,45,6,25
+5138,IndiGo,Chennai,Kolkata,0,5277,21,6,22,5,2,20
+6592,Vistara,Banglore,New Delhi,0,5613,24,3,16,0,2,35
+3913,Jet Airways,Banglore,New Delhi,1,11087,18,3,16,55,12,10
+1963,Jet Airways,Delhi,Cochin,1,12898,27,5,19,45,8,40
+80,Jet Airways,Kolkata,Banglore,1,10844,6,9,21,10,14,50
+7374,Multiple carriers,Delhi,Cochin,1,15078,3,6,9,0,12,0
+7522,Air Asia,Kolkata,Banglore,1,5162,5,12,6,50,3,40
+2470,Jet Airways,Kolkata,Banglore,1,12384,21,5,9,35,9,35
+2365,Vistara,Banglore,Delhi,0,5403,4,12,9,45,2,50
+3138,IndiGo,Banglore,Delhi,0,4823,4,1,20,0,2,50
+9868,Jet Airways,Delhi,Cochin,1,12898,27,5,11,30,16,55
+131,Jet Airways,Delhi,Cochin,1,10262,15,6,11,30,16,55
+5658,SpiceJet,Kolkata,Banglore,0,3873,24,5,22,20,2,20
+1565,Jet Airways,Delhi,Cochin,2,13376,24,6,6,45,21,40
+7203,GoAir,Delhi,Cochin,1,4725,4,3,7,0,5,55
+6190,Jet Airways,Delhi,Cochin,2,13014,24,6,19,30,8,55
+4597,IndiGo,Delhi,Cochin,1,6674,6,6,7,35,8,35
+8074,IndiGo,Delhi,Cochin,1,10112,6,6,23,30,5,5
+3046,SpiceJet,Kolkata,Banglore,0,3873,5,3,22,20,2,20
+1602,Jet Airways,Delhi,Cochin,2,15318,18,5,20,0,8,25
+9078,SpiceJet,Kolkata,Banglore,0,4174,18,5,17,10,2,30
+3912,Jet Airways,Kolkata,Banglore,1,14151,15,5,20,25,14,30
+8262,SpiceJet,Kolkata,Banglore,0,3873,5,1,6,55,2,35
+330,Air India,Kolkata,Banglore,1,8996,6,9,9,10,4,5
+9513,SpiceJet,Mumbai,Hyderabad,0,2437,18,3,5,45,1,20
+1460,Jet Airways,Kolkata,Banglore,1,13941,18,5,5,45,22,55
+1954,Jet Airways,Kolkata,Banglore,1,10844,24,5,16,30,25,45
+2931,Air India,Banglore,Delhi,0,6121,24,4,17,0,2,45
+885,Air India,Banglore,Delhi,0,5228,15,5,13,20,2,50
+2537,Jet Airways,Banglore,New Delhi,1,13555,18,3,22,50,9,25
+1259,Air Asia,Kolkata,Banglore,1,5192,18,5,7,35,11,50
+1777,IndiGo,Kolkata,Banglore,0,4804,27,4,9,35,2,45
+1095,Multiple carriers,Delhi,Cochin,1,10877,6,3,11,25,7,35
+8506,Jet Airways,Kolkata,Banglore,1,14571,24,5,6,30,13,20
+259,Jet Airways,Delhi,Cochin,2,13014,6,3,5,30,13,30
+4111,Jet Airways,Delhi,Cochin,2,13344,6,3,5,30,7,5
+1282,IndiGo,Banglore,Delhi,0,4823,18,5,8,30,2,50
+9957,Multiple carriers,Delhi,Cochin,1,16863,3,3,10,0,11,0
+450,Jet Airways,Delhi,Cochin,1,10262,6,9,7,5,11,55
+676,GoAir,Banglore,Delhi,0,3419,18,6,20,55,2,45
+8730,Multiple carriers,Delhi,Cochin,1,9103,27,5,11,25,7,35
+2967,Jet Airways,Kolkata,Banglore,1,13941,15,5,8,25,15,10
+5723,IndiGo,Banglore,New Delhi,0,7303,3,3,20,0,2,55
+9504,Air India,Kolkata,Banglore,2,13243,18,5,10,0,15,20
+31,Air India,Kolkata,Banglore,2,13227,5,1,9,50,13,25
+4296,IndiGo,Mumbai,Hyderabad,0,2754,24,3,2,30,1,30
+6862,Air Asia,Kolkata,Banglore,2,5192,5,1,15,10,8,20
+1573,Air India,Delhi,Cochin,1,6902,27,3,10,0,9,15
+3836,Jet Airways,Banglore,New Delhi,1,13555,18,3,22,50,10,10
+7726,Vistara,Banglore,Delhi,0,5403,4,1,7,0,2,40
+2269,IndiGo,Banglore,Delhi,0,4823,5,1,8,30,2,50
+1357,Air India,Banglore,New Delhi,1,11654,3,3,9,30,14,15
+3094,Air India,Delhi,Cochin,1,5998,27,3,17,40,14,35
+4090,IndiGo,Delhi,Cochin,1,6386,15,6,2,0,5,45
+5772,Jet Airways,Delhi,Cochin,1,14714,6,9,21,50,6,35
+4114,Air India,Banglore,New Delhi,1,11077,3,9,11,5,22,10
+3244,Air India,Delhi,Cochin,0,5831,3,9,5,10,2,50
+5763,Multiple carriers,Delhi,Cochin,2,18275,6,3,17,50,7,40
+483,Multiple carriers,Delhi,Cochin,1,10197,5,9,10,0,9,0
+5984,Jet Airways,Delhi,Cochin,1,14714,6,3,15,0,28,0
+5156,IndiGo,Delhi,Cochin,1,13628,3,3,7,30,5,50
+3327,Multiple carriers,Delhi,Cochin,1,14343,3,9,17,0,8,35
+3879,IndiGo,Kolkata,Banglore,0,4804,5,3,22,15,2,35
+7294,Multiple carriers,Delhi,Cochin,1,7485,21,5,12,50,12,40
+6685,Vistara,Kolkata,Banglore,1,8452,6,12,17,0,17,45
+916,Multiple carriers,Delhi,Cochin,1,16775,3,3,19,0,6,35
+8500,Jet Airways,Banglore,New Delhi,1,14815,18,3,14,5,5,5
+543,Jet Airways,Kolkata,Banglore,1,13759,24,3,8,25,7,55
+1024,Jet Airways,Delhi,Cochin,2,15129,27,5,9,40,26,55
+4341,Jet Airways,Delhi,Cochin,2,9483,4,9,23,5,13,30
+373,SpiceJet,Banglore,Delhi,0,3919,4,3,9,30,2,50
+3142,Jet Airways,Kolkata,Banglore,1,8586,5,12,8,25,11,25
+5366,GoAir,Kolkata,Banglore,0,3514,24,6,15,20,2,35
+5473,IndiGo,Delhi,Cochin,1,6979,15,5,17,10,8,20
+9890,Jet Airways,Delhi,Cochin,1,14714,6,1,15,0,13,25
+5478,Jet Airways,Kolkata,Banglore,1,13044,6,12,18,55,24,55
+7967,Jet Airways,Banglore,Delhi,0,7229,21,4,17,45,3,0
+10457,Jet Airways,Delhi,Cochin,1,17024,3,3,7,5,11,45
+335,Air Asia,Kolkata,Banglore,1,5192,5,6,7,35,15,55
+500,IndiGo,Banglore,Delhi,0,4823,6,9,7,10,2,55
+9220,IndiGo,Banglore,New Delhi,1,8064,3,1,5,15,4,45
+169,IndiGo,Banglore,Delhi,0,3419,27,5,1,30,2,45
+7431,SpiceJet,Chennai,Kolkata,0,3911,5,6,8,20,2,15
+6366,Jet Airways,Banglore,Delhi,0,7229,15,4,19,50,3,0
+1188,SpiceJet,Delhi,Cochin,1,4957,27,4,17,55,4,55
+9663,Air India,Delhi,Cochin,2,12488,6,3,18,30,24,45
+9058,SpiceJet,Chennai,Kolkata,0,3332,27,3,17,45,2,20
+4079,Air India,Delhi,Cochin,2,9653,27,5,12,0,7,15
+960,SpiceJet,Mumbai,Hyderabad,0,2175,6,1,13,15,1,30
+3330,IndiGo,Mumbai,Hyderabad,0,2754,6,12,19,5,1,30
+9621,Multiple carriers,Delhi,Cochin,1,7242,21,3,9,45,6,25
+8761,Air India,Kolkata,Banglore,2,9626,6,6,12,0,30,30
+8705,Air India,Delhi,Cochin,0,5201,24,6,18,5,3,5
+9827,Multiple carriers,Delhi,Cochin,1,13727,15,5,11,30,9,30
+9542,Jet Airways,Delhi,Cochin,1,12898,27,6,21,50,6,35
+5495,IndiGo,Kolkata,Banglore,0,4804,27,6,9,35,2,35
+4697,Multiple carriers,Delhi,Cochin,1,10678,24,6,10,35,8,25
+8021,IndiGo,Kolkata,Banglore,0,4804,6,6,4,40,2,35
+6613,Jet Airways,Banglore,Delhi,0,7229,4,1,6,0,2,45
+2200,Jet Airways,Mumbai,Hyderabad,0,4995,24,5,7,5,1,25
+1092,Vistara,Chennai,Kolkata,0,3687,6,1,7,5,2,15
+439,Multiple carriers,Delhi,Cochin,1,7354,6,6,10,35,8,40
+1796,IndiGo,Mumbai,Hyderabad,0,5755,24,5,9,10,1,30
+1081,Jet Airways,Delhi,Cochin,1,10262,6,12,21,50,6,35
+5917,Jet Airways,Kolkata,Banglore,1,14151,15,5,17,0,17,55
+1420,Jet Airways,Banglore,Delhi,0,3502,15,5,15,15,2,55
+315,Air India,Delhi,Cochin,2,13465,6,6,18,45,24,30
+4671,SpiceJet,Banglore,Delhi,0,3573,24,5,9,30,2,50
+9795,Jet Airways,Delhi,Cochin,2,13014,6,1,9,40,18,45
+4000,IndiGo,Banglore,Delhi,0,4823,6,3,7,10,2,55
+3057,Jet Airways,Kolkata,Banglore,1,12996,4,1,8,25,7,55
+10449,Jet Airways,Kolkata,Banglore,1,10031,24,3,19,45,27,40
+10577,Air India,Kolkata,Banglore,2,13432,18,5,16,50,20,55
+8848,Jet Airways,Banglore,Delhi,0,8016,6,6,18,55,3,5
+5542,Air Asia,Kolkata,Banglore,1,5192,15,5,7,35,15,55
+2144,IndiGo,Banglore,Delhi,0,4823,15,5,7,10,2,55
+10262,Vistara,Kolkata,Banglore,1,13310,24,3,17,0,16,10
+1375,IndiGo,Kolkata,Banglore,0,4804,5,6,15,30,2,35
+2256,Jet Airways,Kolkata,Banglore,1,8066,5,6,9,35,24,10
+9815,SpiceJet,Kolkata,Banglore,0,3841,5,9,17,10,2,30
+714,IndiGo,Kolkata,Banglore,0,4462,18,3,5,30,2,50
+2710,SpiceJet,Mumbai,Hyderabad,0,4391,3,9,5,45,1,20
+5093,Jet Airways,Delhi,Cochin,1,15764,3,6,15,5,13,20
+5821,Jet Airways,Banglore,New Delhi,1,12284,18,3,7,0,8,15
+6461,SpiceJet,Chennai,Kolkata,0,3543,27,5,8,20,2,15
+47,Air India,Chennai,Kolkata,0,4667,5,3,11,40,2,15
+7195,Jet Airways,Kolkata,Banglore,1,13067,5,6,9,35,8,25
+4566,Air India,Delhi,Cochin,2,13591,15,6,6,50,24,50
+4988,Air India,Kolkata,Banglore,2,12009,6,6,10,0,19,25
+7171,IndiGo,Kolkata,Banglore,0,4804,15,6,22,15,2,35
+4309,SpiceJet,Banglore,Delhi,0,3971,4,1,5,55,2,40
+3015,Jet Airways,Kolkata,Banglore,1,14388,21,5,16,30,12,10
+7359,Vistara,Banglore,Delhi,0,4668,24,5,7,0,2,40
+6545,IndiGo,Banglore,Delhi,0,4823,21,6,8,30,2,50
+7960,Air India,Delhi,Cochin,2,12199,27,6,17,15,26,0
+2536,Multiple carriers,Delhi,Cochin,1,14848,6,6,8,0,11,15
+1004,IndiGo,Kolkata,Banglore,1,6218,5,1,18,5,5,25
+5605,Jet Airways,Delhi,Cochin,1,12373,18,5,19,45,8,40
+10557,Jet Airways,Banglore,Delhi,0,5769,6,12,11,10,2,55
+9979,Jet Airways,Banglore,New Delhi,1,12284,18,3,5,45,10,25
+3502,Jet Airways,Kolkata,Banglore,1,9663,5,9,21,10,14,50
+7799,Multiple carriers,Delhi,Cochin,1,6795,6,3,15,15,10,15
+7588,Air India,Kolkata,Banglore,1,6528,6,9,14,35,24,0
+7138,IndiGo,Kolkata,Banglore,1,6303,24,3,8,15,4,45
+4551,IndiGo,Kolkata,Banglore,0,4804,5,6,4,40,2,35
+4009,Jet Airways,Kolkata,Banglore,1,14231,24,3,13,55,22,5
+8805,Jet Airways,Banglore,Delhi,0,4544,24,4,18,55,3,5
+9832,Air Asia,Delhi,Cochin,1,6752,24,6,16,45,13,50
+3744,Multiple carriers,Delhi,Cochin,1,14533,18,5,13,0,6,15
+5726,IndiGo,Chennai,Kolkata,0,7295,3,1,14,40,2,25
+4375,Air India,Delhi,Cochin,0,6934,5,6,14,10,3,0
+6252,Air India,Delhi,Cochin,1,8669,6,6,7,0,12,15
+7213,Air India,Mumbai,Hyderabad,0,3100,21,3,6,20,1,20
+6205,Jet Airways,Delhi,Cochin,1,10262,6,9,11,30,16,55
+5482,SpiceJet,Banglore,New Delhi,0,3579,24,3,5,45,2,50
+8397,Air India,Delhi,Cochin,1,5117,27,3,17,20,16,5
+9029,Air India,Banglore,New Delhi,3,12358,3,3,12,0,22,35
+10443,Jet Airways,Delhi,Cochin,1,6017,27,3,11,30,7,20
+1117,Air Asia,Banglore,New Delhi,0,3383,24,3,5,50,2,50
+7868,IndiGo,Chennai,Kolkata,0,7295,3,6,19,35,2,20
+2938,Jet Airways,Banglore,New Delhi,1,11087,3,12,18,55,25,25
+10176,IndiGo,Delhi,Cochin,1,6442,27,4,6,50,9,20
+668,Jet Airways,Kolkata,Banglore,1,8586,18,5,21,10,12,55
+5511,IndiGo,Kolkata,Banglore,0,4174,15,4,17,15,2,35
+8928,Jet Airways,Kolkata,Banglore,1,9663,24,5,21,10,12,55
+6192,Jet Airways,Delhi,Cochin,2,17282,3,9,10,45,17,40
+4002,IndiGo,Delhi,Cochin,1,13790,3,6,2,35,5,55
+7032,Jet Airways,Banglore,New Delhi,1,11087,3,12,22,55,8,45
+3797,IndiGo,Kolkata,Banglore,1,11465,6,9,9,20,4,55
+3512,Air Asia,Delhi,Cochin,1,11410,6,6,16,45,14,25
+7069,Air India,Delhi,Cochin,2,12257,6,9,18,45,24,30
+6346,Air Asia,Delhi,Cochin,1,6752,24,6,16,45,5,40
+9798,Multiple carriers,Delhi,Cochin,1,9646,27,6,7,5,9,5
+9280,Jet Airways,Kolkata,Banglore,1,7757,18,5,18,55,13,20
+4896,Multiple carriers,Delhi,Cochin,1,6637,27,3,11,40,9,20
+7464,IndiGo,Kolkata,Banglore,0,5224,6,6,11,30,2,35
+4121,Air Asia,Banglore,Delhi,0,3383,27,4,23,55,2,50
+2701,Jet Airways,Kolkata,Banglore,1,13067,21,5,20,25,25,40
+673,Air India,Delhi,Cochin,2,12961,6,6,13,20,29,55
+4028,Jet Airways,Delhi,Cochin,2,14300,6,12,12,15,24,20
+542,Air India,Delhi,Cochin,1,15284,3,6,8,0,11,15
+4274,SpiceJet,Mumbai,Hyderabad,0,1759,27,3,22,45,1,25
+7066,IndiGo,Banglore,Delhi,0,4990,18,4,13,0,2,50
+2102,SpiceJet,Mumbai,Hyderabad,0,1965,27,6,13,15,1,30
+7495,Jet Airways,Delhi,Cochin,1,12373,18,5,15,0,21,35
+9596,Jet Airways,Banglore,Delhi,0,8016,18,6,19,50,3,0
+9465,Air India,Delhi,Cochin,1,8372,5,9,9,0,10,15
+3335,Jet Airways,Kolkata,Banglore,1,10844,5,12,16,30,23,50
+5054,IndiGo,Mumbai,Hyderabad,0,4392,24,5,12,0,1,30
+9760,IndiGo,Banglore,Delhi,0,4591,15,4,13,0,2,50
+4393,Vistara,Banglore,New Delhi,0,5403,24,3,7,0,2,40
+8582,Air India,Mumbai,Hyderabad,1,12308,3,6,19,0,14,10
+3988,Multiple carriers,Delhi,Cochin,1,13377,27,6,14,0,11,30
+5102,SpiceJet,Banglore,Delhi,0,4423,5,12,21,10,2,55
+8632,Multiple carriers,Delhi,Cochin,1,11200,6,9,11,25,7,35
+5480,Air India,Banglore,New Delhi,2,13942,3,6,8,15,27,5
+8715,IndiGo,Banglore,New Delhi,0,12649,3,1,16,55,2,50
+1677,Jet Airways,Delhi,Cochin,1,16289,6,12,7,5,5,30
+7559,IndiGo,Chennai,Kolkata,0,3597,27,6,19,35,2,20
+2638,Jet Airways,Kolkata,Banglore,1,10844,21,5,8,25,11,25
+5952,Air India,Delhi,Cochin,2,7615,21,3,7,5,26,20
+9777,Air India,Kolkata,Banglore,2,15532,5,1,9,25,28,20
+295,Jet Airways,Banglore,Delhi,0,7229,5,6,8,20,3,0
+6568,Jet Airways,Kolkata,Banglore,1,10031,24,3,6,30,22,15
+4161,Jet Airways,Kolkata,Banglore,1,14151,6,6,17,0,26,10
+1374,Multiple carriers,Delhi,Cochin,1,14067,21,5,13,0,8,0
+1786,Air India,Delhi,Cochin,2,9653,15,6,19,45,23,30
+3347,IndiGo,Banglore,Delhi,0,4823,5,3,18,25,2,55
+286,IndiGo,Banglore,Delhi,0,4823,5,12,16,55,3,0
+6821,Jet Airways,Kolkata,Banglore,1,13731,24,5,18,55,9,45
+929,IndiGo,Banglore,Delhi,0,3943,6,1,21,15,3,0
+8554,Jet Airways,Banglore,New Delhi,1,7832,21,3,5,45,10,25
+3394,SpiceJet,Banglore,New Delhi,0,6860,3,3,9,35,2,55
+9241,Air Asia,Delhi,Cochin,1,6152,24,4,16,45,5,40
+5686,IndiGo,Banglore,Delhi,0,4823,6,1,20,0,2,50
+4782,Vistara,Kolkata,Banglore,1,9345,24,5,7,10,16,15
+8469,Air Asia,Banglore,Delhi,0,3383,21,5,4,55,2,50
+9715,Jet Airways Business,Delhi,Cochin,2,52285,3,6,20,5,8,20
+7440,Jet Airways,Delhi,Cochin,1,14714,6,6,13,0,6,0
+4087,GoAir,Banglore,Delhi,0,3419,6,3,20,55,2,45
+8089,Multiple carriers,Delhi,Cochin,1,6427,27,3,15,15,10,20
+7952,IndiGo,Mumbai,Hyderabad,0,3342,24,5,2,35,1,30
+3991,Air India,Delhi,Cochin,1,11260,3,9,23,0,20,15
+5309,Air India,Mumbai,Hyderabad,2,17327,3,6,21,10,4,15
+6788,IndiGo,Banglore,Delhi,0,3943,6,9,0,25,2,50
+2266,Air Asia,Banglore,New Delhi,0,7074,3,3,5,50,2,50
+3148,Air India,Kolkata,Banglore,2,10697,6,6,8,20,13,30
+3972,Air Asia,Delhi,Cochin,1,6752,27,5,16,45,5,40
+10033,Jet Airways,Kolkata,Banglore,1,13067,5,9,17,0,28,5
+9637,Jet Airways,Delhi,Cochin,2,18804,24,6,11,40,7,20
+797,Multiple carriers,Delhi,Cochin,1,6943,27,5,13,0,12,30
+1662,GoAir,Delhi,Cochin,1,6841,27,5,7,25,6,10
+4880,IndiGo,Delhi,Cochin,1,8227,27,3,7,30,5,50
+1999,Jet Airways,Kolkata,Banglore,1,14781,5,6,8,25,7,55
+1060,Jet Airways,Delhi,Cochin,1,12373,18,5,22,50,5,35
+10542,Jet Airways,Kolkata,Banglore,1,11134,24,3,16,55,5,40
+1160,Air India,Chennai,Kolkata,0,4405,18,3,11,40,2,15
+8519,Jet Airways,Delhi,Cochin,1,17234,3,3,16,0,12,25
+5993,IndiGo,Kolkata,Banglore,1,5069,6,12,8,10,4,50
+6772,Jet Airways,Banglore,New Delhi,1,11087,3,12,22,55,16,20
+1847,Jet Airways,Kolkata,Banglore,1,10031,24,3,21,10,22,30
+2105,Air Asia,Banglore,New Delhi,0,5615,3,9,23,25,2,45
+7290,Multiple carriers,Delhi,Cochin,1,7198,27,6,10,0,15,30
+4130,Air India,Delhi,Cochin,0,5674,18,3,14,10,3,0
+5308,Jet Airways,Banglore,New Delhi,0,18308,3,6,19,55,2,40
+8139,Air Asia,Delhi,Cochin,1,6752,5,9,16,45,5,40
+5461,Air Asia,Banglore,Delhi,0,4483,18,5,11,10,2,45
+1633,Multiple carriers,Delhi,Cochin,1,8266,15,5,10,20,8,55
+5724,Multiple carriers,Delhi,Cochin,1,13587,6,1,11,30,9,30
+210,IndiGo,Banglore,Delhi,0,3943,5,12,0,30,2,55
+9268,Vistara,Kolkata,Banglore,1,7770,4,1,20,20,26,35
+5518,IndiGo,Kolkata,Banglore,0,4804,18,6,4,40,2,35
+7913,Jet Airways,Banglore,New Delhi,1,13817,3,12,16,55,6,5
+10078,Jet Airways,Delhi,Cochin,2,13014,6,12,19,30,8,55
+4169,Jet Airways,Banglore,Delhi,0,8016,6,12,7,10,3,0
+5877,IndiGo,Delhi,Cochin,1,6101,21,3,7,45,5,55
+10308,Air India,Kolkata,Banglore,1,6528,6,6,14,35,24,0
+4626,IndiGo,Delhi,Cochin,0,7673,3,6,5,35,3,15
+9498,Jet Airways,Delhi,Cochin,1,10262,6,6,16,0,12,25
+6827,IndiGo,Delhi,Cochin,0,6834,15,5,21,5,3,15
+10491,Multiple carriers,Delhi,Cochin,1,7933,6,6,10,0,11,0
+9263,SpiceJet,Kolkata,Banglore,1,4649,5,1,15,5,5,15
+5465,Jet Airways,Delhi,Cochin,2,13376,6,12,14,35,22,0
+3850,IndiGo,Delhi,Cochin,1,6426,21,3,2,0,5,45
+6478,Air India,Delhi,Cochin,1,5704,21,3,20,30,26,30
+10234,Jet Airways,Kolkata,Banglore,1,10844,21,5,20,0,12,15
+4760,Multiple carriers,Delhi,Cochin,3,15629,6,12,11,35,9,25
+7769,Jet Airways,Delhi,Cochin,1,10262,6,1,14,0,14,25
+9313,Jet Airways,Kolkata,Banglore,1,10844,21,5,21,10,14,50
+106,Multiple carriers,Delhi,Cochin,1,11421,27,3,11,40,7,10
+5292,IndiGo,Delhi,Cochin,1,7640,24,5,14,20,8,10
+590,Jet Airways,Kolkata,Banglore,1,8586,15,5,20,0,8,40
+9310,Air India,Delhi,Cochin,0,4729,18,3,18,5,3,5
+8439,Air India,Delhi,Cochin,0,6094,5,9,18,5,3,5
+1791,Air India,Delhi,Cochin,2,10756,21,3,6,50,36,25
+7427,IndiGo,Delhi,Cochin,1,9476,3,9,5,35,4,35
+9619,Air India,Kolkata,Banglore,1,12173,24,3,20,30,16,0
+868,Jet Airways,Kolkata,Banglore,1,10844,6,6,16,30,7,5
+1199,Air Asia,Delhi,Cochin,1,8627,3,6,16,45,14,25
+1414,Jet Airways,Banglore,Delhi,0,4030,5,1,18,55,3,5
+2410,Jet Airways,Banglore,New Delhi,1,16736,3,6,20,35,11,5
+7494,Jet Airways,Kolkata,Banglore,1,10844,24,5,16,30,19,30
+4797,Air India,Banglore,Delhi,0,7171,18,5,17,0,2,45
+3391,Vistara,Kolkata,Banglore,1,8452,21,5,20,20,12,45
+10220,Jet Airways,Banglore,Delhi,0,7229,21,5,15,50,2,55
+6754,Vistara,Kolkata,Banglore,1,8452,6,12,7,10,15,30
+8804,Jet Airways,Kolkata,Banglore,1,14231,24,3,13,55,19,20
+3092,Jet Airways,Delhi,Cochin,1,14714,15,6,7,5,5,30
+6947,Air India,Delhi,Cochin,2,13223,27,5,10,55,8,20
+1797,Jet Airways,Delhi,Cochin,1,10262,15,6,18,15,10,10
+1543,Jet Airways,Delhi,Cochin,2,15129,5,9,23,5,13,30
+4653,Air India,Kolkata,Banglore,2,7662,6,12,5,50,7,25
+6530,Jet Airways,Kolkata,Banglore,1,14781,18,5,8,25,14,10
+5012,Jet Airways,Kolkata,Banglore,1,8586,6,6,8,25,20,15
+2054,Air India,Mumbai,Hyderabad,0,3100,6,6,6,20,1,20
+29,Vistara,Chennai,Kolkata,0,3687,15,6,7,5,2,15
+3168,Jet Airways,Delhi,Cochin,2,14300,6,12,18,20,18,15
+3932,Multiple carriers,Delhi,Cochin,1,9794,5,1,7,30,11,30
+2792,Jet Airways,Banglore,Delhi,0,5198,5,6,6,0,2,45
+5449,Jet Airways,Banglore,New Delhi,1,16736,3,6,7,0,14,20
+4155,IndiGo,Mumbai,Hyderabad,0,4784,5,9,16,55,1,30
+6018,SpiceJet,Kolkata,Banglore,0,3850,3,6,6,55,2,40
+6150,Air India,Kolkata,Banglore,1,7893,4,1,16,50,25,40
+9161,Air Asia,Kolkata,Banglore,1,5192,5,1,22,40,12,0
+6991,Multiple carriers,Delhi,Cochin,1,34273,5,9,12,50,12,40
+2145,SpiceJet,Mumbai,Hyderabad,0,2647,18,6,5,45,1,30
+3584,Multiple carriers,Delhi,Cochin,3,16294,15,5,11,35,13,55
+5096,Jet Airways,Delhi,Cochin,1,10262,15,6,17,30,25,30
+1914,Jet Airways,Kolkata,Banglore,1,14781,21,5,8,25,11,25
+108,Air India,Delhi,Cochin,2,11596,5,9,12,55,30,20
+6289,Air Asia,Banglore,Delhi,0,4282,6,3,4,55,2,50
+2542,Jet Airways,Delhi,Cochin,1,14714,6,3,17,30,10,55
+9243,Vistara,Chennai,Kolkata,0,11982,24,5,17,45,2,20
+4756,Air Asia,Kolkata,Banglore,0,3807,18,6,19,55,2,30
+9921,Jet Airways,Delhi,Cochin,2,13029,5,9,19,30,8,55
+3594,IndiGo,Kolkata,Banglore,0,4804,6,6,17,15,2,35
+9018,Jet Airways,Banglore,Delhi,0,8541,21,6,19,50,3,0
+3513,Jet Airways,Kolkata,Banglore,1,12681,4,1,16,30,27,20
+6769,Vistara,Kolkata,Banglore,1,8662,5,6,17,0,17,45
+10215,IndiGo,Delhi,Cochin,1,7503,18,5,18,35,6,55
+6159,IndiGo,Banglore,Delhi,0,4823,27,5,16,55,3,0
+9285,Air India,Mumbai,Hyderabad,0,3100,6,9,13,55,1,30
+8160,Air Asia,Delhi,Cochin,1,6152,6,12,20,45,10,25
+6930,Air Asia,Delhi,Cochin,1,8759,6,3,7,55,14,30
+6836,Vistara,Banglore,Delhi,0,4878,24,6,17,0,2,35
+9895,Jet Airways,Delhi,Cochin,0,7202,18,5,11,0,3,15
+3944,SpiceJet,Banglore,Delhi,0,3311,27,5,5,55,2,40
+4838,Multiple carriers,Delhi,Cochin,1,12192,6,6,8,0,11,0
+265,Multiple carriers,Delhi,Cochin,1,7695,21,3,11,40,13,55
+4442,Multiple carriers,Delhi,Cochin,1,10546,5,9,7,5,13,55
+1970,Jet Airways,Kolkata,Banglore,1,14231,24,3,13,55,9,30
+5701,Air India,Banglore,New Delhi,2,25430,3,1,8,50,38,35
+2288,GoAir,Delhi,Cochin,1,4201,4,6,7,25,6,10
+9503,Air Asia,Banglore,Delhi,0,4483,21,4,23,55,2,50
+6179,Multiple carriers,Delhi,Cochin,1,5999,21,3,7,10,15,10
+5964,Air Asia,Banglore,New Delhi,0,10715,3,1,5,50,2,50
+5787,IndiGo,Delhi,Cochin,1,5636,5,9,7,15,5,15
+1515,Jet Airways,Mumbai,Hyderabad,0,3210,18,5,19,35,1,30
+2238,Air India,Banglore,New Delhi,1,8714,15,3,9,30,6,50
+9169,Multiple carriers,Delhi,Cochin,1,12192,6,6,9,0,10,0
+9588,Jet Airways,Delhi,Cochin,2,13292,6,12,9,35,18,50
+293,SpiceJet,Mumbai,Hyderabad,0,4129,3,6,5,45,1,20
+8701,Air India,Delhi,Cochin,0,5674,21,3,5,10,2,50
+6735,Jet Airways,Delhi,Cochin,2,13014,6,9,19,30,8,55
+9809,Air India,Delhi,Cochin,2,12436,24,6,12,55,30,20
+6115,Multiple carriers,Delhi,Cochin,1,6513,5,9,7,10,9,0
+427,Multiple carriers,Delhi,Cochin,1,14323,15,5,11,30,7,45
+5813,IndiGo,Banglore,Delhi,0,3943,27,5,10,10,2,50
+5097,Air India,Kolkata,Banglore,2,11883,5,6,5,50,17,25
+576,Air India,Delhi,Cochin,2,15481,6,1,6,50,24,50
+4475,IndiGo,Kolkata,Banglore,0,4804,15,5,21,25,2,40
+4840,IndiGo,Delhi,Cochin,1,4744,27,3,2,5,5,20
+5748,IndiGo,Delhi,Cochin,1,8784,27,5,4,55,16,5
+5902,Jet Airways,Banglore,New Delhi,1,19225,3,6,14,5,7,15
+3171,Multiple carriers,Delhi,Cochin,1,16259,3,9,4,0,8,55
+2637,Jet Airways,Delhi,Cochin,2,9412,27,3,17,35,10,50
+14,IndiGo,Kolkata,Banglore,0,4804,24,4,17,15,2,35
+6639,IndiGo,Kolkata,Banglore,1,3480,24,4,19,20,4,25
+8408,Jet Airways,Kolkata,Banglore,1,10844,15,5,18,55,21,25
+7662,SpiceJet,Delhi,Cochin,1,4466,27,3,8,45,4,30
+7048,GoAir,Delhi,Cochin,1,7870,6,6,14,25,5,10
+4304,Jet Airways,Delhi,Cochin,2,10368,6,1,19,30,8,55
+8750,Jet Airways,Delhi,Cochin,2,14237,6,1,18,25,10,0
+1152,Jet Airways,Mumbai,Hyderabad,0,4050,6,1,7,5,1,25
+8118,IndiGo,Banglore,New Delhi,0,4777,3,9,23,30,2,50
+2290,Multiple carriers,Delhi,Cochin,1,6513,15,5,14,55,7,35
+8286,SpiceJet,Kolkata,Banglore,0,4622,3,9,17,15,2,30
+4453,Vistara,Chennai,Kolkata,0,11982,5,6,17,45,2,20
+5413,Jet Airways,Kolkata,Banglore,1,10844,5,12,6,30,11,45
+4839,SpiceJet,Mumbai,Hyderabad,0,1759,4,3,22,45,1,30
+8115,Multiple carriers,Delhi,Cochin,1,9001,6,3,8,45,10,30
+4674,IndiGo,Delhi,Cochin,1,6600,6,9,5,5,11,5
+736,SpiceJet,Kolkata,Banglore,0,3873,6,1,22,20,2,20
+6265,Jet Airways,Delhi,Cochin,2,12819,27,6,19,10,17,25
+5941,IndiGo,Delhi,Cochin,1,6674,6,6,6,50,9,20
+7871,Jet Airways,Delhi,Cochin,1,12032,27,3,19,15,24,30
+8653,Jet Airways,Kolkata,Banglore,1,11467,4,1,20,25,18,40
+92,Jet Airways,Banglore,New Delhi,1,13817,3,12,16,55,17,30
+4940,Jet Airways,Delhi,Cochin,2,19266,3,3,5,40,22,45
+2828,Jet Airways,Kolkata,Banglore,1,12384,15,5,20,25,13,20
+9071,Vistara,Kolkata,Banglore,1,9345,24,5,20,20,27,5
+7343,Multiple carriers,Delhi,Cochin,1,7268,24,6,10,20,8,55
+3757,SpiceJet,Banglore,New Delhi,0,3925,24,3,20,30,2,50
+2024,Jet Airways,Delhi,Cochin,1,11848,3,9,19,45,8,40
+496,Jet Airways,Delhi,Cochin,1,14714,6,6,20,55,7,30
+3824,IndiGo,Kolkata,Banglore,0,4804,5,3,15,30,2,35
+10138,GoAir,Delhi,Cochin,1,5628,3,3,5,45,7,35
+3025,Jet Airways,Delhi,Cochin,2,11150,27,6,23,5,13,30
+3510,Multiple carriers,Delhi,Cochin,1,7740,27,5,8,45,12,15
+7154,Jet Airways,Banglore,Delhi,0,4544,4,9,17,45,3,0
+5777,Air India,Delhi,Cochin,0,6094,6,1,5,10,2,50
+398,Air India,Banglore,New Delhi,0,10741,3,9,17,0,2,45
+7813,IndiGo,Kolkata,Banglore,0,4804,24,4,14,25,2,30
+2841,Jet Airways,Banglore,New Delhi,1,17261,3,6,21,25,12,5
+972,IndiGo,Delhi,Cochin,1,10112,6,12,23,30,5,5
+5769,Jet Airways,Delhi,Cochin,2,13029,21,5,5,30,13,30
+7241,IndiGo,Banglore,Delhi,0,4823,5,9,8,30,2,50
+3097,Air Asia,Delhi,Cochin,1,6451,27,6,16,45,14,25
+3660,Air India,Delhi,Cochin,1,7480,6,1,12,30,20,55
+3868,Jet Airways,Kolkata,Banglore,1,14151,5,12,20,25,14,30
+9767,IndiGo,Delhi,Cochin,1,6937,3,9,20,30,5,5
+4250,Air India,Kolkata,Banglore,0,5510,5,6,14,15,2,30
+8414,Jet Airways,Mumbai,Hyderabad,0,8040,21,3,10,20,1,30
+9645,Jet Airways,Mumbai,Hyderabad,0,8040,6,3,7,5,1,25
+1290,Air India,Banglore,New Delhi,0,4441,24,3,10,0,2,45
+6345,Jet Airways,Delhi,Cochin,2,15129,27,5,23,5,13,30
+1713,Vistara,Mumbai,Hyderabad,1,12395,3,6,21,55,18,50
+7105,Air India,Kolkata,Banglore,1,6117,21,5,19,0,16,5
+6890,SpiceJet,Kolkata,Banglore,0,3873,4,1,6,55,2,35
+10318,Jet Airways,Banglore,Delhi,0,7229,4,6,19,50,3,0
+5783,Air India,Delhi,Cochin,1,7480,27,6,12,30,20,55
+1802,IndiGo,Delhi,Cochin,1,6069,15,5,16,0,5,0
+7515,Jet Airways,Delhi,Cochin,2,14300,15,6,12,15,16,10
+10645,Multiple carriers,Delhi,Cochin,1,17057,3,3,7,5,8,25
+6500,Jet Airways,Banglore,New Delhi,1,7832,21,3,8,0,13,20
+3500,IndiGo,Banglore,Delhi,0,4823,27,5,18,25,2,55
+2976,Jet Airways,Kolkata,Banglore,1,10844,6,6,18,55,24,55
+388,IndiGo,Kolkata,Banglore,0,4804,18,5,22,15,2,35
+3576,Vistara,Banglore,New Delhi,0,4563,24,3,19,40,2,40
+2612,Jet Airways,Kolkata,Banglore,1,13044,6,12,18,55,13,20
+6578,Jet Airways,Banglore,Delhi,0,7229,18,5,8,20,3,0
+5212,Multiple carriers,Delhi,Cochin,1,11622,21,3,10,45,8,5
+1335,Jet Airways,Mumbai,Hyderabad,0,5678,18,6,19,35,1,30
+6589,GoAir,Delhi,Cochin,1,6195,15,4,7,0,5,55
+9322,IndiGo,Kolkata,Banglore,0,4804,6,9,17,15,2,35
+5822,Jet Airways,Mumbai,Hyderabad,0,4995,21,6,7,5,1,25
+5127,Jet Airways,Mumbai,Hyderabad,0,8040,18,6,8,45,1,30
+88,Jet Airways,Kolkata,Banglore,1,7064,4,1,8,25,12,20
+510,Jet Airways,Banglore,New Delhi,1,26890,3,1,7,0,5,25
+10352,IndiGo,Banglore,New Delhi,0,6144,15,3,13,0,2,50
+4596,Jet Airways,Delhi,Cochin,1,10262,24,6,21,50,14,45
+2820,Jet Airways,Kolkata,Banglore,1,7064,4,1,16,30,12,10
+8015,Vistara,Banglore,Delhi,0,4668,21,5,7,0,2,40
+3933,Jet Airways,Delhi,Cochin,2,8834,21,3,19,10,33,15
+1516,IndiGo,Delhi,Cochin,1,6147,5,9,15,10,4,50
+9460,Air India,Banglore,Delhi,0,5228,24,4,21,5,2,50
+2758,SpiceJet,Chennai,Kolkata,0,3597,27,6,9,45,2,15
+4222,Multiple carriers,Delhi,Cochin,1,13727,5,6,13,0,8,0
+7113,Air India,Banglore,Delhi,0,6961,21,6,13,20,2,50
+8290,Jet Airways,Kolkata,Banglore,1,10539,6,9,17,0,26,10
+9064,Multiple carriers,Delhi,Cochin,1,7038,6,1,7,10,15,20
+3370,Jet Airways,Kolkata,Banglore,1,14781,5,6,14,5,5,45
+934,Jet Airways,Banglore,New Delhi,1,7832,21,3,8,0,12,20
+838,Jet Airways,Delhi,Cochin,1,15554,18,5,22,50,20,10
+6367,Jet Airways,Delhi,Cochin,1,14714,6,3,19,15,17,20
+651,Air India,Banglore,New Delhi,0,7591,3,3,6,10,2,45
+10204,IndiGo,Kolkata,Banglore,0,4778,24,3,5,30,2,50
+6488,Multiple carriers,Delhi,Cochin,1,14486,21,3,7,5,8,25
+7211,SpiceJet,Banglore,Delhi,0,3625,18,5,5,55,2,40
+4829,Jet Airways,Banglore,New Delhi,1,27992,3,1,5,45,14,35
+9314,Jet Airways,Kolkata,Banglore,1,14231,24,3,18,55,21,25
+4654,IndiGo,Banglore,Delhi,0,4823,6,6,8,30,2,50
+6962,Jet Airways,Kolkata,Banglore,1,13759,24,3,19,45,24,55
+2424,Jet Airways,Kolkata,Banglore,1,7064,4,1,18,55,17,5
+7131,Jet Airways,Kolkata,Banglore,1,8586,5,12,8,25,23,50
+9122,Jet Airways,Delhi,Cochin,2,13014,6,1,9,40,26,55
+416,Jet Airways,Kolkata,Banglore,1,14388,5,12,21,10,12,10
+8403,Multiple carriers,Delhi,Cochin,1,13377,27,6,11,30,14,0
+621,Air India,Banglore,New Delhi,1,6046,15,3,8,15,13,10
+10100,Multiple carriers,Delhi,Cochin,1,6883,27,3,9,0,12,0
+719,Vistara,Kolkata,Banglore,1,12312,24,3,20,20,12,50
+7732,IndiGo,Kolkata,Banglore,1,4226,24,5,6,20,4,0
+7804,GoAir,Banglore,Delhi,0,5048,27,4,7,45,2,55
+10353,Jet Airways,Mumbai,Hyderabad,2,24210,3,6,19,50,21,0
+969,Air India,Delhi,Cochin,2,11552,3,6,7,5,36,10
+8622,Air India,Banglore,New Delhi,1,14069,3,1,11,5,11,40
+1356,Jet Airways,Kolkata,Banglore,1,10844,6,6,18,55,23,20
+4325,Multiple carriers,Delhi,Cochin,1,7997,18,5,11,25,7,50
+6912,Air India,Delhi,Cochin,1,7480,6,12,20,40,12,45
+3245,Jet Airways,Delhi,Cochin,1,10262,24,6,19,15,9,10
+8456,Air Asia,Kolkata,Banglore,1,6857,18,5,6,50,3,40
+549,Air India,Kolkata,Banglore,1,11096,21,5,7,0,13,25
+9448,Air India,Banglore,Delhi,0,6961,15,6,6,10,2,45
+10051,Air India,Delhi,Cochin,2,10336,6,1,12,0,7,15
+7779,Multiple carriers,Delhi,Cochin,1,6093,15,6,7,10,9,0
+2125,Jet Airways,Delhi,Cochin,2,12819,24,6,19,10,23,50
+5695,Jet Airways,Delhi,Cochin,1,12373,18,5,20,55,7,30
+8,Jet Airways,Banglore,New Delhi,1,11087,3,12,8,55,25,30
+399,Air India,Kolkata,Banglore,2,11432,6,6,16,50,12,45
+9104,Jet Airways,Kolkata,Banglore,1,11467,5,1,17,0,26,10
+9776,IndiGo,Chennai,Kolkata,0,3597,6,3,13,15,2,20
+6677,Jet Airways,Banglore,New Delhi,1,10972,18,3,18,40,13,0
+3305,Jet Airways,Delhi,Cochin,1,10262,6,3,19,15,9,10
+4354,IndiGo,Mumbai,Hyderabad,0,2754,27,6,19,5,1,30
+2899,Multiple carriers,Delhi,Cochin,1,10678,27,6,4,55,14,5
+9214,Multiple carriers,Delhi,Cochin,1,15135,3,6,6,40,12,10
+5260,Air India,Delhi,Cochin,2,9706,21,3,12,0,19,40
+4172,IndiGo,Delhi,Cochin,1,6794,21,5,4,55,6,55
+3895,Jet Airways,Delhi,Cochin,1,13843,3,6,21,50,6,35
+6447,Jet Airways,Kolkata,Banglore,1,10844,21,5,20,0,16,0
+3623,IndiGo,Delhi,Cochin,1,7081,18,5,8,30,12,30
+7701,IndiGo,Banglore,New Delhi,0,7303,24,3,8,30,3,0
+4355,IndiGo,Mumbai,Hyderabad,0,2227,6,1,20,5,1,35
+8991,Jet Airways,Banglore,Delhi,0,8016,6,6,7,10,3,0
+2527,Air India,Kolkata,Banglore,1,8366,5,1,9,25,22,30
+8278,Jet Airways,Banglore,New Delhi,1,13817,3,12,22,55,11,50
+8758,Air India,Kolkata,Banglore,2,10151,5,6,12,0,30,30
+8076,Jet Airways,Kolkata,Banglore,1,13067,24,5,17,0,29,5
+4046,Multiple carriers,Delhi,Cochin,1,14848,6,12,9,0,10,15
+582,Air Asia,Kolkata,Banglore,0,4409,24,4,10,20,2,35
+902,Air India,Banglore,New Delhi,1,10972,3,9,11,50,12,5
+624,IndiGo,Delhi,Cochin,1,7451,3,6,14,20,8,0
+796,Jet Airways,Banglore,Delhi,0,7229,4,9,7,10,3,0
+568,IndiGo,Kolkata,Banglore,0,4804,21,6,20,20,2,35
+731,Jet Airways,Banglore,Delhi,0,4544,4,3,15,15,2,55
+3553,Jet Airways,Delhi,Cochin,2,8938,21,3,19,15,23,35
+10427,Jet Airways,Banglore,New Delhi,1,13817,3,12,22,55,11,30
+1222,Jet Airways,Mumbai,Hyderabad,0,2071,27,3,19,35,1,30
+1624,Jet Airways,Banglore,Delhi,0,7754,21,6,19,50,3,0
+8777,Air Asia,Banglore,Delhi,0,4483,6,1,11,10,2,45
+6799,Jet Airways,Delhi,Cochin,1,6540,27,3,16,0,12,25
+2979,Jet Airways,Delhi,Cochin,1,10262,15,6,15,0,21,35
+360,Jet Airways,Banglore,Delhi,0,8016,6,9,18,55,3,5
+5914,Jet Airways,Delhi,Cochin,1,16079,21,5,10,0,9,0
+8405,Multiple carriers,Delhi,Cochin,1,7933,6,1,9,0,12,0
+291,Air India,Delhi,Cochin,2,8708,21,3,13,20,29,55
+8171,IndiGo,Mumbai,Hyderabad,0,6795,3,3,16,55,1,30
+7018,SpiceJet,Kolkata,Banglore,0,3841,6,9,22,20,2,20
+101,Jet Airways,Kolkata,Banglore,1,14939,6,9,20,0,12,15
+9325,Jet Airways,Mumbai,Hyderabad,0,8040,27,5,10,20,1,30
+6672,Air India,Kolkata,Banglore,1,4227,4,3,19,0,16,5
+705,SpiceJet,Chennai,Kolkata,0,3332,21,3,17,45,2,20
+1967,Jet Airways,Kolkata,Banglore,1,12384,5,9,9,35,11,30
+8182,Air India,Banglore,New Delhi,2,8114,24,3,17,0,29,55
+9477,IndiGo,Delhi,Cochin,1,6442,27,6,5,5,7,5
+5906,IndiGo,Kolkata,Banglore,1,4205,5,12,19,20,4,25
+8814,Multiple carriers,Delhi,Cochin,1,10678,24,6,11,25,7,35
+9779,Multiple carriers,Delhi,Cochin,1,5883,27,3,14,35,7,45
+5500,Jet Airways,Mumbai,Hyderabad,0,4995,5,6,7,5,1,25
+858,Jet Airways,Kolkata,Banglore,1,12681,4,1,8,25,11,25
+10043,Air India,Delhi,Cochin,1,8372,6,9,21,0,22,15
+10530,Air India,Banglore,New Delhi,1,6273,3,3,8,15,4,0
+1302,Jet Airways,Kolkata,Banglore,1,14781,21,5,6,30,11,45
+3573,Air Asia,Kolkata,Banglore,0,3807,24,6,22,50,2,30
+2185,IndiGo,Delhi,Cochin,1,8177,5,9,23,30,5,5
+10022,Jet Airways,Delhi,Cochin,1,14714,6,3,18,15,24,45
+9626,SpiceJet,Kolkata,Banglore,0,3841,27,5,17,10,2,30
+4613,SpiceJet,Delhi,Cochin,1,6356,21,3,8,45,4,30
+1118,Vistara,Kolkata,Banglore,1,8452,21,5,7,10,25,55
+7932,SpiceJet,Kolkata,Banglore,0,3841,4,6,22,20,2,20
+10376,Air Asia,Banglore,Delhi,0,3383,6,12,23,55,2,50
+1657,Air India,Delhi,Cochin,2,9443,6,12,5,0,38,15
+4788,IndiGo,Delhi,Cochin,1,6171,3,6,4,55,11,15
+3169,Multiple carriers,Delhi,Cochin,1,13727,15,5,18,15,7,15
+852,IndiGo,Kolkata,Banglore,0,4804,24,5,9,35,2,45
+7661,GoAir,Delhi,Cochin,1,5842,21,5,7,25,5,55
+5947,Air India,Banglore,New Delhi,3,10573,3,3,12,0,11,55
+563,Jet Airways,Delhi,Cochin,0,5443,18,4,11,0,3,15
+5848,Jet Airways,Delhi,Cochin,2,11507,5,9,21,25,15,10
+3947,IndiGo,Kolkata,Banglore,0,4804,15,5,20,20,2,35
+3937,Jet Airways,Banglore,Delhi,0,8016,24,6,15,15,2,55
+4178,Air India,Delhi,Cochin,1,7199,21,3,8,0,11,15
+8345,Jet Airways,Delhi,Cochin,2,13029,18,5,9,40,26,55
+6355,Jet Airways,Banglore,Delhi,0,4030,5,12,18,55,3,5
+3940,Air India,Banglore,New Delhi,1,11707,3,12,11,50,21,5
+63,IndiGo,Delhi,Cochin,1,7191,15,5,15,0,10,30
+6650,Multiple carriers,Delhi,Cochin,1,10529,27,5,8,45,10,15
+4834,Air India,Banglore,Delhi,0,5176,4,6,6,10,2,45
+1479,Jet Airways,Delhi,Cochin,2,10368,15,6,9,40,9,20
+8936,Jet Airways,Kolkata,Banglore,1,9663,18,5,8,25,24,55
+3375,Jet Airways,Kolkata,Banglore,1,14151,15,5,9,35,25,20
+5051,Multiple carriers,Delhi,Cochin,1,13587,24,6,10,0,11,0
+4275,IndiGo,Banglore,Delhi,0,4423,5,12,6,5,2,45
+10527,IndiGo,Delhi,Cochin,1,7081,18,5,17,10,8,20
+2045,Multiple carriers,Delhi,Cochin,1,7038,6,1,14,55,7,35
+8798,Jet Airways,Banglore,Delhi,0,7229,6,1,15,15,2,55
+2409,Vistara,Banglore,Delhi,0,4878,5,12,17,0,2,35
+6061,Multiple carriers,Delhi,Cochin,1,10529,24,5,7,30,11,30
+3017,SpiceJet,Kolkata,Banglore,0,3815,27,3,6,55,2,40
+3268,Jet Airways,Delhi,Cochin,2,10919,15,6,6,45,21,40
+2407,Vistara,Kolkata,Banglore,1,8610,6,12,7,10,13,10
+1495,Air India,Kolkata,Banglore,2,10408,4,1,10,0,15,20
+2249,Multiple carriers,Delhi,Cochin,1,5797,24,6,10,20,15,10
+4267,Multiple carriers,Delhi,Cochin,1,7740,6,6,8,45,12,15
+9369,Jet Airways,Delhi,Cochin,1,5177,4,6,2,15,16,45
+245,IndiGo,Banglore,Delhi,0,3943,24,4,23,30,2,50
+3501,Jet Airways,Banglore,New Delhi,1,16736,3,6,11,40,17,25
+10442,Jet Airways,Banglore,Delhi,0,4544,24,4,8,20,3,0
+3627,IndiGo,Delhi,Cochin,1,8542,5,1,7,30,13,30
+3058,Air India,Delhi,Cochin,1,9929,27,5,9,0,10,15
+9475,Jet Airways,Mumbai,Hyderabad,0,3210,6,6,19,35,1,30
+2465,IndiGo,Mumbai,Hyderabad,0,5755,5,3,9,10,1,30
+333,IndiGo,Kolkata,Banglore,0,4148,3,12,20,25,2,40
+10096,IndiGo,Chennai,Kolkata,0,3858,27,3,19,35,2,20
+7161,IndiGo,Kolkata,Banglore,1,5276,6,9,19,35,3,40
+2618,Jet Airways,Banglore,New Delhi,1,54826,18,3,22,50,6,15
+2718,Air India,Delhi,Cochin,3,15586,3,9,5,15,38,0
+3734,Jet Airways,Delhi,Cochin,1,16079,27,6,22,50,5,35
+1630,Air India,Chennai,Kolkata,0,4667,5,1,11,40,2,15
+263,IndiGo,Delhi,Cochin,1,6171,3,9,4,55,11,15
+9454,Air India,Kolkata,Banglore,3,12954,4,1,10,0,24,30
+5682,Air India,Delhi,Cochin,2,8656,27,3,16,40,26,35
+7178,SpiceJet,Kolkata,Banglore,0,3873,4,3,6,55,2,35
+5525,Air India,Kolkata,Banglore,2,14960,6,9,9,50,26,40
+655,SpiceJet,Mumbai,Hyderabad,0,1965,5,3,13,15,1,30
+623,Jet Airways,Kolkata,Banglore,1,12692,6,6,20,25,18,0
+2162,Jet Airways,Delhi,Cochin,1,12898,21,5,20,55,7,30
+5050,Air India,Kolkata,Banglore,3,8607,4,1,16,45,30,30
+6422,Jet Airways,Delhi,Cochin,2,13882,6,9,14,5,22,30
+1508,IndiGo,Delhi,Cochin,1,6104,6,9,17,30,8,0
+9293,Air India,Kolkata,Banglore,2,11668,18,5,9,25,15,55
+10299,IndiGo,Kolkata,Banglore,0,4804,6,12,14,25,2,30
+10035,IndiGo,Banglore,Delhi,0,4423,4,6,10,10,2,50
+4886,Jet Airways,Kolkata,Banglore,1,14231,24,3,13,55,20,10
+1150,SpiceJet,Chennai,Kolkata,0,3597,27,5,17,45,2,20
+4286,Multiple carriers,Delhi,Cochin,1,8073,15,5,10,0,15,30
+9361,Air India,Delhi,Cochin,1,7480,15,5,17,20,16,5
+7444,Air India,Banglore,Delhi,0,6961,21,5,17,0,2,50
+367,IndiGo,Chennai,Kolkata,0,7295,3,3,14,40,2,25
+1439,IndiGo,Delhi,Cochin,1,5054,6,12,7,35,4,35
+7759,Air India,Mumbai,Hyderabad,0,11185,3,3,19,30,1,15
+737,SpiceJet,Kolkata,Banglore,0,3873,27,4,22,20,2,20
+6006,Jet Airways,Kolkata,Banglore,1,10539,6,6,9,35,28,50
+4054,SpiceJet,Banglore,Delhi,0,3625,21,5,9,30,2,50
+1128,Jet Airways,Kolkata,Banglore,1,10844,24,5,6,30,11,45
+1116,IndiGo,Banglore,New Delhi,0,4777,3,9,21,20,2,55
+9050,Jet Airways,Banglore,Delhi,0,5198,27,4,8,20,3,0
+10336,IndiGo,Banglore,Delhi,0,4990,4,12,6,5,2,45
+577,SpiceJet,Kolkata,Banglore,0,5515,3,1,22,20,2,20
+5004,Jet Airways,Mumbai,Hyderabad,0,3210,6,3,19,35,1,30
+5606,Jet Airways,Banglore,New Delhi,1,11297,3,12,5,50,9,10
+4749,IndiGo,Chennai,Kolkata,0,5277,18,6,22,5,2,20
+7850,Air Asia,Kolkata,Banglore,0,4384,3,9,10,20,2,35
+8580,Air India,Delhi,Cochin,2,12383,6,9,10,55,8,20
+8404,Air India,Delhi,Cochin,1,8372,21,5,10,0,9,15
+7053,Multiple carriers,Delhi,Cochin,1,6732,27,3,11,30,7,45
+5922,IndiGo,Banglore,Delhi,0,3943,4,1,10,10,2,50
+10640,Jet Airways,Delhi,Cochin,1,14053,3,9,18,15,24,35
+4897,Air India,Banglore,New Delhi,2,12074,3,3,7,30,27,20
+6932,Air India,Kolkata,Banglore,1,6528,18,5,14,35,24,0
+4701,Multiple carriers,Delhi,Cochin,1,10786,27,5,6,0,13,15
+2216,Jet Airways,Mumbai,Hyderabad,0,3210,6,12,19,35,1,30
+9582,Multiple carriers,Delhi,Cochin,1,10197,18,5,3,50,15,10
+2750,Jet Airways,Kolkata,Banglore,1,8586,5,12,20,0,8,40
+6276,SpiceJet,Kolkata,Banglore,0,3841,6,9,17,10,2,30
+6909,Multiple carriers,Delhi,Cochin,1,15135,3,3,9,10,9,40
+6610,Air India,Mumbai,Hyderabad,2,13169,3,6,6,0,27,10
+76,GoAir,Banglore,Delhi,0,3898,4,3,11,40,2,50
+9549,Vistara,Banglore,New Delhi,0,9918,3,9,11,30,2,40
+8907,Jet Airways,Kolkata,Banglore,1,14571,6,9,20,0,22,15
+10015,IndiGo,Chennai,Kolkata,0,3597,18,6,19,35,2,20
+4401,Jet Airways,Delhi,Cochin,1,10262,6,3,11,30,25,5
+7043,Jet Airways,Delhi,Cochin,2,13014,6,3,9,40,9,20
+7694,Air India,Delhi,Cochin,1,8669,27,6,7,0,12,15
+5833,Air Asia,Kolkata,Banglore,1,6810,6,6,7,35,11,50
+9339,Air India,Banglore,Delhi,0,5228,27,4,10,0,2,45
+7379,Jet Airways,Kolkata,Banglore,1,9663,24,5,14,5,19,15
+7578,Jet Airways,Delhi,Cochin,1,14714,6,1,22,50,20,10
+3572,SpiceJet,Chennai,Kolkata,0,3859,5,9,8,20,2,15
+2939,SpiceJet,Banglore,New Delhi,0,5575,24,3,20,30,2,50
+8013,Air India,Delhi,Cochin,0,6724,4,9,14,5,3,50
+4464,IndiGo,Delhi,Cochin,1,6496,6,12,5,10,4,55
+1123,Multiple carriers,Delhi,Cochin,1,11789,6,12,6,0,13,0
+5490,Multiple carriers,Delhi,Cochin,1,9385,18,5,13,0,12,30
+4437,Air India,Banglore,Delhi,0,7171,24,5,17,0,2,45
+9354,IndiGo,Banglore,Delhi,0,4823,6,12,18,55,2,55
+6096,IndiGo,Mumbai,Hyderabad,0,2754,6,1,12,0,1,30
+684,IndiGo,Banglore,Delhi,0,3943,27,5,21,15,3,0
+647,IndiGo,Delhi,Cochin,1,14871,3,6,8,25,12,35
+7517,Jet Airways,Delhi,Cochin,2,15129,18,5,5,30,22,55
+2768,Air India,Delhi,Cochin,2,11185,6,9,7,5,26,20
+290,IndiGo,Delhi,Cochin,1,14871,3,3,4,45,8,35
+3511,Jet Airways,Kolkata,Banglore,1,13941,15,5,14,5,9,30
+8101,IndiGo,Mumbai,Hyderabad,0,3175,6,1,2,35,1,30
+5276,Vistara,Banglore,Delhi,0,4878,15,6,7,0,2,40
+6348,IndiGo,Mumbai,Hyderabad,0,3175,5,1,16,55,1,30
+5136,SpiceJet,Banglore,New Delhi,1,23267,3,1,10,20,7,55
+7447,Jet Airways,Delhi,Cochin,2,13292,6,6,21,25,21,35
+7163,Air India,Delhi,Cochin,2,11281,5,1,22,0,21,15
+6026,Multiple carriers,Delhi,Cochin,1,6093,15,6,7,10,15,20
+4683,Jet Airways,Kolkata,Banglore,1,9314,5,9,9,35,28,50
+8608,Multiple carriers,Delhi,Cochin,1,7155,27,6,11,25,7,50
+4548,Jet Airways,Delhi,Cochin,1,10262,15,6,13,0,15,25
+1353,Air India,Banglore,New Delhi,2,20999,3,1,6,45,28,25
+185,SpiceJet,Delhi,Cochin,1,4812,24,6,8,45,4,30
+3034,Jet Airways,Delhi,Cochin,1,10577,6,12,8,0,11,0
+6869,Jet Airways,Delhi,Cochin,1,10262,6,12,14,0,5,0
+2503,Multiple carriers,Delhi,Cochin,1,13377,6,1,14,0,11,30
+4263,IndiGo,Mumbai,Hyderabad,0,2754,5,12,19,5,1,30
+9207,Jet Airways,Delhi,Cochin,1,7438,21,3,2,15,26,10
+10409,Vistara,Kolkata,Banglore,1,13100,24,3,17,0,25,45
+8797,Jet Airways,Kolkata,Banglore,1,14571,6,6,14,5,6,40
+8455,IndiGo,Delhi,Cochin,1,5883,6,12,10,35,14,55
+4881,Air India,Kolkata,Banglore,2,12125,4,1,9,50,13,25
+3564,Jet Airways,Banglore,New Delhi,1,11087,3,3,5,45,23,20
+9900,SpiceJet,Kolkata,Banglore,1,8479,5,9,11,35,7,15
+381,Jet Airways,Delhi,Cochin,2,15129,5,9,19,30,17,5
+2304,IndiGo,Banglore,Delhi,0,3419,24,4,1,30,2,45
+10019,Jet Airways,Delhi,Cochin,2,11507,6,12,5,30,13,30
+1154,Jet Airways,Delhi,Cochin,2,15129,5,9,23,5,19,55
+9987,IndiGo,Delhi,Cochin,1,6496,27,6,5,10,4,55
+4017,SpiceJet,Delhi,Cochin,1,4957,27,6,17,55,4,55
+10287,Air Asia,Delhi,Cochin,1,6151,27,3,16,45,14,25
+3079,Air Asia,Delhi,Cochin,1,8327,21,5,16,45,14,25
+2662,Air India,Delhi,Cochin,2,11071,15,6,20,0,23,15
+1701,Jet Airways,Kolkata,Banglore,1,14781,18,5,5,45,12,30
+2777,Air India,Kolkata,Banglore,2,11491,24,3,7,0,27,0
+9409,SpiceJet,Kolkata,Banglore,0,4174,5,6,9,0,2,25
+3708,Air India,Mumbai,Hyderabad,0,3100,5,1,19,30,1,15
+3484,Multiple carriers,Delhi,Cochin,1,10197,18,5,8,0,11,0
+2959,IndiGo,Banglore,Delhi,0,3419,24,5,1,30,2,45
+8762,Air India,Kolkata,Banglore,1,10623,18,5,17,30,26,55
+5348,Air India,Banglore,Delhi,0,6121,5,1,10,0,2,45
+1083,Jet Airways,Delhi,Cochin,2,12819,27,6,13,25,23,10
+4151,IndiGo,Delhi,Cochin,1,6442,15,4,8,35,7,35
+3870,Multiple carriers,Delhi,Cochin,1,13377,6,1,15,0,10,30
+4650,Air India,Banglore,New Delhi,1,11528,3,1,10,30,24,50
+5563,IndiGo,Banglore,Delhi,0,4823,24,6,7,10,2,55
+6296,IndiGo,Chennai,Kolkata,0,3384,21,3,13,20,2,15
+3374,Jet Airways,Delhi,Cochin,1,7438,21,3,13,0,15,25
+4898,IndiGo,Kolkata,Banglore,0,4804,21,6,11,30,2,35
+9062,Jet Airways,Delhi,Cochin,1,15029,3,9,2,15,26,10
+4894,SpiceJet,Banglore,New Delhi,0,6205,24,3,9,35,2,55
+5021,Multiple carriers,Delhi,Cochin,1,13587,6,12,14,0,7,0
+4180,Multiple carriers,Delhi,Cochin,1,12524,6,1,8,45,10,15
+9275,Air Asia,Kolkata,Banglore,1,5162,5,9,19,55,3,35
+6000,IndiGo,Kolkata,Banglore,0,4804,21,5,22,15,2,35
+3181,IndiGo,Banglore,Delhi,0,4423,5,1,13,0,2,50
+4972,Jet Airways,Kolkata,Banglore,1,14151,4,1,20,25,13,20
+144,Multiple carriers,Delhi,Cochin,1,9486,21,5,13,5,11,50
+6820,Multiple carriers,Delhi,Cochin,1,6513,6,9,7,10,15,20
+1779,IndiGo,Delhi,Cochin,1,6558,21,3,7,35,14,45
+2904,Jet Airways,Kolkata,Banglore,1,13374,6,6,18,55,9,45
+759,IndiGo,Banglore,Delhi,0,3943,24,6,13,0,2,50
+7082,Multiple carriers,Delhi,Cochin,1,14848,21,5,10,0,9,15
+5479,Jet Airways,Banglore,Delhi,0,4030,5,3,11,10,2,55
+3060,Air India,Delhi,Cochin,0,5674,21,3,18,5,3,5
+1161,SpiceJet,Delhi,Cochin,1,6749,21,4,15,45,6,20
+1530,IndiGo,Banglore,Delhi,0,4423,24,4,6,5,2,45
+10456,Jet Airways,Delhi,Cochin,2,20694,3,6,19,10,47,40
+4455,Jet Airways,Delhi,Cochin,1,10262,6,1,22,50,13,45
+6134,Jet Airways,Delhi,Cochin,1,10262,24,6,15,0,21,35
+10450,Jet Airways,Kolkata,Banglore,1,14388,5,12,18,55,14,25
+2483,Jet Airways,Delhi,Cochin,1,12898,21,5,22,50,5,35
+5767,Jet Airways,Kolkata,Banglore,1,9314,5,1,20,25,22,45
+431,Multiple carriers,Delhi,Cochin,1,13727,5,9,10,0,11,0
+5747,Air India,Kolkata,Banglore,1,12173,24,3,20,30,23,55
+0,IndiGo,Banglore,New Delhi,0,3897,24,3,22,20,2,50
+6780,Jet Airways,Kolkata,Banglore,1,12121,5,6,9,35,14,0
+349,Jet Airways,Banglore,Delhi,0,7229,24,4,17,45,3,0
+5983,Vistara,Kolkata,Banglore,1,7927,4,1,20,20,27,5
+6539,Jet Airways,Mumbai,Hyderabad,0,5678,5,1,2,55,1,25
+9526,Jet Airways,Kolkata,Banglore,1,10844,18,5,16,30,7,5
+10232,SpiceJet,Kolkata,Banglore,0,3873,21,5,22,20,2,20
+4248,IndiGo,Kolkata,Banglore,0,4804,15,5,15,30,2,35
+6148,Jet Airways,Delhi,Cochin,1,14714,6,6,17,30,25,30
+3465,Air Asia,Kolkata,Banglore,0,4409,5,6,19,55,2,30
+4448,Vistara,Banglore,New Delhi,0,5088,24,3,16,0,2,35
+4085,Jet Airways,Delhi,Cochin,1,12242,4,9,22,50,5,35
+1815,Air Asia,Delhi,Cochin,1,13470,6,9,16,45,5,40
+8681,Jet Airways,Delhi,Cochin,1,12898,27,5,18,15,18,20
+2277,Jet Airways,Kolkata,Banglore,1,14151,6,9,17,0,17,55
+4934,Jet Airways,Kolkata,Banglore,1,14571,6,9,6,30,5,30
+2912,Air India,Banglore,Delhi,0,6961,6,1,13,20,2,50
+3577,SpiceJet,Mumbai,Hyderabad,0,1965,4,1,13,15,1,30
+2051,IndiGo,Banglore,Delhi,0,4423,15,4,10,10,2,50
+4034,Jet Airways,Delhi,Cochin,1,16079,21,5,20,55,7,30
+3066,Air Asia,Delhi,Cochin,1,8759,6,1,7,55,14,30
+4951,Air India,Banglore,Delhi,0,5228,5,6,17,0,2,45
+8274,Jet Airways,Delhi,Cochin,2,10368,6,3,19,30,8,55
+2337,Jet Airways,Kolkata,Banglore,1,8586,5,6,16,30,12,10
+2127,Jet Airways,Banglore,New Delhi,1,22270,3,1,8,0,24,15
+1700,Multiple carriers,Delhi,Cochin,1,6943,27,5,15,0,10,30
+8152,Air Asia,Banglore,Delhi,0,7120,6,1,23,55,2,50
+6308,Jet Airways,Kolkata,Banglore,1,8529,6,12,16,30,19,30
+6621,GoAir,Banglore,New Delhi,0,3898,24,3,11,40,2,55
+6458,SpiceJet,Delhi,Cochin,1,5975,18,5,17,55,4,55
+5596,IndiGo,Banglore,Delhi,0,3943,27,4,22,10,2,50
+3936,Vistara,Banglore,New Delhi,0,7240,3,9,21,10,2,55
+1200,Air Asia,Kolkata,Banglore,0,4409,21,5,9,45,2,30
+783,IndiGo,Delhi,Cochin,1,6938,6,1,16,10,6,20
+5300,IndiGo,Banglore,Delhi,0,3625,21,5,22,10,2,50
+2354,Multiple carriers,Delhi,Cochin,1,7005,6,6,11,40,9,20
+8968,Multiple carriers,Delhi,Cochin,1,15078,3,6,8,0,13,0
+316,SpiceJet,Chennai,Kolkata,0,3543,21,5,17,45,2,20
+6095,Air Asia,Delhi,Cochin,1,8028,21,5,16,45,5,45
+6966,IndiGo,Kolkata,Banglore,0,4804,6,9,9,35,2,45
+4052,SpiceJet,Banglore,Delhi,0,3971,4,3,9,30,2,50
+10264,IndiGo,Mumbai,Hyderabad,0,2754,4,1,19,5,1,30
+7571,IndiGo,Banglore,Delhi,0,4990,4,12,18,25,2,55
+3285,IndiGo,Delhi,Cochin,1,6287,21,3,4,55,7,5
+7067,Jet Airways,Kolkata,Banglore,1,10844,5,12,21,10,19,10
+8614,Jet Airways,Kolkata,Banglore,1,14781,5,1,8,25,9,50
+2308,Air India,Delhi,Cochin,0,5201,27,6,5,10,2,50
+3963,Jet Airways,Banglore,New Delhi,1,12284,18,3,5,45,7,30
+10342,SpiceJet,Kolkata,Banglore,0,3873,6,12,22,20,2,20
+4373,SpiceJet,Kolkata,Banglore,1,8479,6,6,11,35,7,15
+4826,IndiGo,Delhi,Cochin,1,5947,15,4,16,0,5,0
+10383,Jet Airways,Banglore,New Delhi,1,26890,3,1,7,0,22,5
+9766,Air Asia,Delhi,Cochin,1,6152,24,6,7,55,14,30
+4134,IndiGo,Banglore,Delhi,0,5740,18,4,8,30,2,50
+9188,Jet Airways,Delhi,Cochin,1,12373,5,9,11,30,7,30
+7691,Air India,Delhi,Cochin,1,7416,27,3,9,45,22,30
+103,Air India,Kolkata,Banglore,1,6528,5,12,14,35,24,0
+6303,Jet Airways,Delhi,Cochin,2,11118,27,6,9,40,26,55
+3614,Air India,Kolkata,Banglore,2,17732,5,6,9,25,20,0
+1523,Jet Airways,Delhi,Cochin,1,5963,27,3,19,15,24,30
+5733,Jet Airways,Banglore,Delhi,0,7229,4,6,7,10,3,0
+2643,Multiple carriers,Delhi,Cochin,1,6007,24,6,12,50,8,10
+757,Jet Airways,Kolkata,Banglore,1,10031,24,3,21,10,21,0
+8254,Jet Airways,Kolkata,Banglore,1,11134,24,3,16,55,16,20
+9065,Jet Airways,Delhi,Cochin,1,15554,5,9,8,0,11,0
+7079,Jet Airways,Delhi,Cochin,2,12347,21,3,18,25,24,25
+4387,Jet Airways,Delhi,Cochin,1,10262,27,6,17,30,25,30
+3144,Air India,Delhi,Cochin,0,6881,3,6,5,10,2,50
+2634,Vistara,Banglore,New Delhi,0,5403,24,3,11,30,2,40
+5849,Vistara,Mumbai,Hyderabad,1,12395,3,6,7,30,25,55
+1519,Multiple carriers,Delhi,Cochin,1,10877,27,6,7,30,11,30
+3727,IndiGo,Delhi,Cochin,1,6938,6,6,16,10,6,20
+7419,Multiple carriers,Delhi,Cochin,1,9646,6,9,9,45,12,45
+6533,IndiGo,Delhi,Cochin,1,7503,15,5,9,15,11,45
+8876,Jet Airways,Kolkata,Banglore,1,7064,4,1,16,30,7,5
+5161,Jet Airways,Kolkata,Banglore,1,8586,5,12,20,0,14,5
+1978,Jet Airways,Kolkata,Banglore,1,14151,24,5,9,35,14,0
+567,Jet Airways,Banglore,Delhi,0,7229,21,5,7,10,3,0
+3906,Air India,Delhi,Cochin,2,8603,6,12,12,0,7,15
+9035,Vistara,Banglore,Delhi,0,5403,4,12,11,30,2,50
+3886,Multiple carriers,Delhi,Cochin,1,16497,3,6,10,0,8,50
+5803,IndiGo,Banglore,New Delhi,0,4944,24,3,23,30,2,50
+2995,Jet Airways,Delhi,Cochin,1,14714,27,6,9,0,10,0
+7381,IndiGo,Delhi,Cochin,1,13628,3,6,7,30,5,50
+6199,Air India,Delhi,Cochin,2,8971,27,3,5,55,25,45
+10575,Jet Airways,Kolkata,Banglore,1,7064,4,1,20,0,20,20
+6163,IndiGo,Delhi,Cochin,1,7258,27,3,4,45,16,15
+2539,Jet Airways,Delhi,Cochin,2,13029,21,5,9,40,26,55
+7714,Multiple carriers,Delhi,Cochin,1,7038,6,1,7,10,9,0
+3545,Air India,Banglore,New Delhi,2,19372,3,1,8,50,26,20
+7073,IndiGo,Banglore,Delhi,0,3419,5,6,22,10,2,50
+3419,Jet Airways,Kolkata,Banglore,1,13584,5,6,18,55,15,10
+10072,Air India,Delhi,Cochin,1,14882,3,6,9,0,22,40
+765,Air Asia,Kolkata,Banglore,0,4409,27,5,10,20,2,35
+7306,Air India,Delhi,Cochin,2,10283,3,3,5,0,38,15
+36,SpiceJet,Kolkata,Banglore,1,4649,21,5,15,5,5,15
+3137,Vistara,Banglore,Delhi,0,4668,6,12,11,30,2,50
+5242,GoAir,Banglore,Delhi,0,3898,24,6,11,40,2,50
+6074,Jet Airways,Kolkata,Banglore,1,8355,6,9,10,20,7,15
+1289,Multiple carriers,Delhi,Cochin,1,12192,24,6,3,50,8,45
+2507,IndiGo,Banglore,Delhi,0,4823,6,1,16,55,2,50
+1229,Multiple carriers,Delhi,Cochin,1,9779,6,1,9,15,10,0
+10203,Jet Airways,Delhi,Cochin,1,10262,6,6,11,30,16,55
+2292,IndiGo,Kolkata,Banglore,1,6218,5,9,18,5,5,25
+8307,Air India,Kolkata,Banglore,2,9920,4,1,16,45,19,15
+5881,Jet Airways,Delhi,Cochin,1,10262,15,6,9,0,10,0
+8202,Air India,Kolkata,Banglore,2,9626,5,9,12,0,30,30
+8759,Air India,Kolkata,Banglore,2,11432,5,12,9,25,20,10
+8159,Jet Airways,Delhi,Cochin,1,10262,15,6,13,0,6,0
+4197,Jet Airways,Delhi,Cochin,1,13843,3,6,11,30,16,55
+3967,SpiceJet,Mumbai,Hyderabad,0,2753,21,6,5,45,1,30
+1615,IndiGo,Delhi,Cochin,1,5054,6,1,7,35,4,35
+3866,IndiGo,Kolkata,Banglore,0,4778,15,3,14,20,2,35
+4949,IndiGo,Banglore,New Delhi,0,6860,24,3,7,10,2,55
+3355,IndiGo,Kolkata,Banglore,1,11319,5,6,9,20,4,55
+4743,IndiGo,Delhi,Cochin,1,8330,5,9,17,30,8,0
+5932,IndiGo,Kolkata,Banglore,1,6991,24,5,15,10,5,20
+7258,Multiple carriers,Delhi,Cochin,1,17057,3,3,8,0,7,30
+5392,Vistara,Banglore,Delhi,0,4878,15,5,17,0,2,35
+1819,IndiGo,Banglore,Delhi,0,4823,27,6,18,25,2,55
+637,Air India,Banglore,Delhi,0,5228,27,4,13,20,2,50
+1076,Jet Airways,Banglore,Delhi,0,5198,5,3,8,20,3,0
+9786,Multiple carriers,Delhi,Cochin,1,6795,27,5,10,20,15,10
+6155,Vistara,Banglore,Delhi,0,5403,4,3,11,30,2,50
+1195,Jet Airways,Kolkata,Banglore,1,10844,6,6,21,10,12,10
+4885,SpiceJet,Kolkata,Banglore,0,4622,3,9,6,55,2,40
+4584,Jet Airways,Delhi,Cochin,1,14053,3,9,15,5,13,20
+5288,Air India,Delhi,Cochin,1,8372,21,5,8,0,11,15
+2232,Jet Airways,Delhi,Cochin,1,10577,6,12,8,0,20,25
+149,Multiple carriers,Delhi,Cochin,1,7005,6,9,12,50,8,10
+2650,Vistara,Chennai,Kolkata,0,11982,6,9,17,45,2,20
+4858,Air India,Delhi,Cochin,2,16111,3,9,20,0,23,15
+3841,Jet Airways,Mumbai,Hyderabad,0,8040,3,6,10,20,1,30
+3958,IndiGo,Delhi,Cochin,1,5298,27,3,6,40,5,20
+8963,Jet Airways,Kolkata,Banglore,1,10844,6,6,8,25,12,20
+7455,Jet Airways,Kolkata,Banglore,1,8066,5,9,20,25,14,30
+3897,IndiGo,Kolkata,Banglore,0,4804,6,1,22,15,2,35
+8966,IndiGo,Delhi,Cochin,1,14871,3,3,16,0,9,35
+5502,Jet Airways,Delhi,Cochin,2,11507,6,3,21,25,21,35
+803,Air India,Banglore,New Delhi,2,9796,15,3,5,50,16,20
+5536,Air India,Delhi,Cochin,1,6482,21,3,12,30,20,55
+8050,Jet Airways,Kolkata,Banglore,1,11134,24,3,21,10,11,0
+8172,Air India,Kolkata,Banglore,1,10623,24,5,17,30,26,55
+743,Jet Airways,Delhi,Cochin,2,14441,6,12,5,30,7,5
+7028,IndiGo,Kolkata,Banglore,0,4804,18,5,15,15,2,30
+4659,Air India,Mumbai,Hyderabad,2,14219,3,6,6,0,29,55
+3192,Jet Airways,Banglore,Delhi,0,7229,27,5,18,55,3,5
+3246,Multiple carriers,Delhi,Cochin,1,15136,3,6,13,55,11,40
+9860,Jet Airways,Banglore,Delhi,0,7229,18,4,11,10,2,55
+6426,IndiGo,Banglore,Delhi,0,4823,18,5,18,25,2,55
+2070,Multiple carriers,Delhi,Cochin,1,7408,15,6,7,0,14,0
+6521,Air Asia,Banglore,Delhi,0,3383,24,4,4,55,2,50
+4362,Air India,Kolkata,Banglore,2,10991,5,6,5,50,14,35
+4769,Jet Airways,Kolkata,Banglore,1,9663,18,5,21,10,12,10
+801,IndiGo,Banglore,Delhi,0,3419,6,1,22,10,2,50
+5244,SpiceJet,Delhi,Cochin,1,6749,27,5,6,5,5,15
+6305,Air India,Kolkata,Banglore,2,15107,24,5,10,0,19,25
+5828,IndiGo,Delhi,Cochin,1,6493,6,6,17,5,5,20
+7890,Air India,Delhi,Cochin,1,7480,21,5,6,5,27,20
+1215,Jet Airways,Kolkata,Banglore,1,11467,5,1,9,35,24,10
+2184,Air India,Kolkata,Banglore,0,5510,15,5,14,15,2,30
+5002,Multiple carriers,Delhi,Cochin,1,7198,6,6,13,0,12,30
+6304,IndiGo,Delhi,Cochin,1,14871,3,3,6,40,8,50
+10014,IndiGo,Kolkata,Banglore,1,4226,4,1,19,35,3,40
+10497,Jet Airways,Delhi,Cochin,2,10368,18,5,19,30,17,5
+1193,Multiple carriers,Delhi,Cochin,1,7787,15,5,6,40,12,35
+5243,IndiGo,Banglore,New Delhi,0,6860,3,3,1,30,2,45
+4763,Jet Airways,Delhi,Cochin,2,15129,5,9,5,30,13,30
+586,Vistara,Banglore,Delhi,0,4878,18,5,7,0,2,40
+6246,Jet Airways,Kolkata,Banglore,1,10844,5,12,16,30,28,15
+9493,IndiGo,Chennai,Kolkata,0,4752,24,3,13,20,2,15
+7435,Air India,Delhi,Cochin,1,8372,6,9,20,0,23,15
+10374,Air India,Banglore,Delhi,0,6961,27,6,10,0,2,45
+6055,IndiGo,Delhi,Cochin,1,10958,18,5,23,30,5,5
+1669,SpiceJet,Kolkata,Banglore,0,5515,3,3,9,0,2,30
+8724,Air India,Delhi,Cochin,2,10467,6,3,13,15,20,10
+8988,Air India,Kolkata,Banglore,2,9836,4,1,7,0,27,0
+23,IndiGo,Banglore,Delhi,0,4823,5,1,18,55,2,55
+6462,SpiceJet,Kolkata,Banglore,0,3841,5,3,17,10,2,30
+3488,Jet Airways,Kolkata,Banglore,1,10844,18,5,8,25,11,25
+791,Jet Airways,Banglore,Delhi,0,7229,6,6,19,50,3,0
+1537,IndiGo,Delhi,Cochin,1,14871,3,6,17,10,8,25
+5029,IndiGo,Kolkata,Banglore,0,4174,4,6,15,30,2,35
+1425,Vistara,Kolkata,Banglore,1,9502,24,5,7,10,25,55
+2505,Air India,Delhi,Cochin,1,8372,6,12,21,0,10,40
+8283,IndiGo,Mumbai,Hyderabad,0,2227,24,6,20,5,1,35
+4313,Jet Airways,Delhi,Cochin,1,10262,6,1,18,15,10,10
+10676,Multiple carriers,Delhi,Cochin,1,9794,5,1,10,20,8,40
+3774,Jet Airways,Kolkata,Banglore,1,10844,5,6,8,25,9,50
+1667,Jet Airways,Delhi,Cochin,2,13376,6,9,14,35,13,50
+6680,IndiGo,Delhi,Cochin,1,6628,6,1,15,0,10,30
+8784,SpiceJet,Mumbai,Hyderabad,0,2227,5,9,13,15,1,30
+5588,Jet Airways,Kolkata,Banglore,1,10844,5,6,6,30,9,50
+2091,Air India,Delhi,Cochin,0,6094,27,4,5,10,2,50
+605,Air India,Banglore,New Delhi,1,6955,21,3,22,0,12,50
+10644,Multiple carriers,Delhi,Cochin,1,10877,6,6,10,35,8,25
+10182,Air India,Banglore,New Delhi,1,23677,3,1,6,45,5,30
+995,Air Asia,Kolkata,Banglore,0,4409,4,12,22,50,2,30
+2136,Multiple carriers,Delhi,Cochin,1,12192,6,12,7,0,12,0
+7602,Vistara,Kolkata,Banglore,1,10027,24,5,17,0,16,5
+10460,IndiGo,Mumbai,Hyderabad,0,2227,18,3,20,5,1,30
+10139,Jet Airways,Kolkata,Banglore,1,10844,6,9,18,55,21,25
+7730,IndiGo,Chennai,Kolkata,0,4332,5,3,11,35,2,25
+4748,Jet Airways,Kolkata,Banglore,1,11134,24,3,16,55,25,15
+8466,Jet Airways,Delhi,Cochin,0,9564,6,9,11,0,3,15
+4050,SpiceJet,Kolkata,Banglore,0,3873,15,4,22,20,2,20
+8064,SpiceJet,Delhi,Cochin,1,9748,3,6,6,10,5,10
+1623,Jet Airways,Delhi,Cochin,1,16079,21,5,22,50,5,35
+9653,Vistara,Kolkata,Banglore,1,9345,21,5,7,10,11,40
+9929,IndiGo,Mumbai,Hyderabad,0,4049,18,3,9,10,1,30
+9227,Jet Airways,Delhi,Cochin,2,16263,18,5,20,0,8,25
+7194,Air India,Kolkata,Banglore,0,6245,4,1,14,15,2,30
+10062,Jet Airways,Delhi,Cochin,2,18804,15,6,11,40,7,20
+6073,Multiple carriers,Delhi,Cochin,1,6513,6,12,7,10,15,20
+2473,IndiGo,Delhi,Cochin,1,6069,6,12,16,0,5,0
+4208,GoAir,Delhi,Cochin,1,5281,27,3,7,0,5,50
+1258,IndiGo,Delhi,Cochin,1,6558,21,3,6,40,15,40
+3116,SpiceJet,Kolkata,Banglore,0,3847,15,3,9,0,2,30
+7594,Vistara,Delhi,Cochin,0,6216,6,3,14,40,3,10
+8420,GoAir,Kolkata,Banglore,1,6945,15,5,23,30,8,15
+1315,IndiGo,Delhi,Cochin,1,10351,27,3,9,10,11,50
+1889,Jet Airways,Delhi,Cochin,1,18371,27,6,7,5,11,55
+7922,IndiGo,Delhi,Cochin,1,6442,21,5,11,55,6,15
+5429,Air India,Delhi,Cochin,0,6094,15,5,5,10,2,50
+2717,SpiceJet,Banglore,Delhi,0,3625,4,1,21,10,2,55
+3115,GoAir,Banglore,Delhi,0,3898,6,6,11,40,2,50
+2609,IndiGo,Delhi,Cochin,1,6968,21,4,6,50,5,20
+10482,Vistara,Kolkata,Banglore,1,8610,6,12,7,10,16,15
+10106,Vistara,Kolkata,Banglore,1,8085,5,12,20,20,27,5
+5508,Vistara,Chennai,Kolkata,0,11982,15,6,17,45,2,20
+7828,Multiple carriers,Delhi,Cochin,1,7005,6,6,6,0,15,0
+267,Air India,Kolkata,Banglore,1,8366,6,12,16,50,15,5
+5164,Air India,Kolkata,Banglore,2,10151,5,1,12,0,19,55
+9610,SpiceJet,Delhi,Cochin,1,11349,3,3,15,55,6,0
+4086,Jet Airways,Delhi,Cochin,1,16289,27,5,8,0,11,0
+8871,Air India,Kolkata,Banglore,2,9920,4,1,16,45,16,10
+1344,IndiGo,Banglore,Delhi,0,4823,21,6,20,0,2,50
+6709,Jet Airways,Mumbai,Hyderabad,0,4995,21,5,10,20,1,30
+3166,IndiGo,Delhi,Cochin,1,6818,21,5,5,5,7,5
+739,Jet Airways,Kolkata,Banglore,1,10844,6,9,21,10,19,10
+9431,Jet Airways,Delhi,Cochin,1,10262,6,6,7,5,11,55
+967,SpiceJet,Banglore,New Delhi,0,5126,3,9,5,45,2,50
+252,Jet Airways,Kolkata,Banglore,1,10844,24,5,16,30,27,20
+7917,Jet Airways,Delhi,Cochin,2,16263,6,1,20,0,8,25
+3441,Multiple carriers,Delhi,Cochin,1,15147,3,6,17,45,7,50
+50,Jet Airways,Delhi,Cochin,0,7202,3,9,11,0,3,15
+5396,Air India,Delhi,Cochin,2,10975,21,5,7,5,26,20
+1412,IndiGo,Delhi,Cochin,1,7318,21,3,17,10,8,25
+10581,Multiple carriers,Delhi,Cochin,1,6795,6,6,15,15,10,15
+874,Multiple carriers,Delhi,Cochin,1,6270,27,6,10,20,15,10
+1934,Multiple carriers,Delhi,Cochin,1,9794,21,5,6,0,6,35
+10158,Air Asia,Kolkata,Banglore,1,5192,5,6,7,35,11,50
+6868,Multiple carriers,Delhi,Cochin,1,8266,6,6,12,50,6,25
+10424,Air India,Banglore,New Delhi,2,11570,3,3,17,25,15,20
+10039,Air India,Chennai,Kolkata,0,4667,5,6,11,40,2,15
+2033,Multiple carriers,Delhi,Cochin,1,8266,5,9,8,45,10,30
+1898,Multiple carriers,Delhi,Cochin,1,6723,24,6,7,10,9,0
+248,Vistara,Chennai,Kolkata,0,11982,27,6,17,45,2,20
+2374,Air India,Banglore,New Delhi,2,12734,3,12,6,50,28,30
+1896,Air India,Kolkata,Banglore,0,5510,27,5,14,15,2,30
+7845,Jet Airways,Delhi,Cochin,1,10262,6,1,19,15,17,20
+2535,Jet Airways,Banglore,Delhi,0,4030,27,5,11,10,2,55
+554,Jet Airways,Banglore,Delhi,0,7229,15,6,18,55,3,5
+973,Vistara,Chennai,Kolkata,0,6627,3,9,7,5,2,15
+6666,Multiple carriers,Delhi,Cochin,1,8307,21,3,9,0,6,30
+4468,IndiGo,Banglore,Delhi,0,3943,5,9,4,0,2,50
+3568,Air India,Kolkata,Banglore,3,14960,21,5,9,50,13,25
+8275,Air India,Delhi,Cochin,2,10975,27,6,7,5,26,20
+10514,IndiGo,Delhi,Cochin,1,5883,6,12,17,10,8,20
+2489,Jet Airways,Delhi,Cochin,1,13843,3,6,8,0,20,25
+6438,Multiple carriers,Delhi,Cochin,1,7005,6,9,11,40,9,20
+8556,Multiple carriers,Delhi,Cochin,1,15136,3,6,13,0,12,35
+10469,SpiceJet,Chennai,Kolkata,0,3597,27,5,9,45,2,15
+447,SpiceJet,Chennai,Kolkata,0,3543,6,1,9,45,2,15
+6254,Multiple carriers,Delhi,Cochin,1,10348,18,5,9,45,12,45
+3955,Jet Airways,Kolkata,Banglore,1,13759,24,3,8,25,14,10
+10095,Vistara,Banglore,New Delhi,0,5403,21,3,11,30,2,40
+7394,Jet Airways,Banglore,Delhi,0,7229,4,12,18,55,3,5
+9679,IndiGo,Delhi,Cochin,1,6674,27,5,6,50,15,40
+2141,Jet Airways,Mumbai,Hyderabad,0,4995,5,9,10,20,1,30
+6399,Jet Airways,Delhi,Cochin,1,14714,6,3,16,0,20,35
+9517,Air India,Kolkata,Banglore,2,12723,15,5,5,50,27,5
+10623,Jet Airways,Delhi,Cochin,2,9483,4,9,23,5,19,55
+461,Jet Airways,Banglore,Delhi,0,7229,5,1,19,50,3,0
+3925,Air India,Kolkata,Banglore,1,7452,6,6,9,50,11,15
+8839,Jet Airways,Banglore,Delhi,0,5769,21,6,11,10,2,55
+4577,Air India,Delhi,Cochin,1,6482,21,3,17,20,16,5
+1928,SpiceJet,Kolkata,Banglore,0,3841,15,5,17,10,2,30
+7749,Multiple carriers,Delhi,Cochin,1,15603,3,3,7,0,14,0
+1180,Jet Airways,Delhi,Cochin,2,13376,6,9,6,45,21,40
+376,Multiple carriers,Delhi,Cochin,1,11667,27,3,10,0,8,50
+410,Air India,Delhi,Cochin,2,12392,18,5,17,15,26,0
+4628,Jet Airways,Delhi,Cochin,1,10262,6,12,2,15,10,20
+8200,Jet Airways,Kolkata,Banglore,1,11841,6,9,21,10,11,5
+1692,Jet Airways,Kolkata,Banglore,1,13626,6,12,14,5,9,30
+1742,Multiple carriers,Delhi,Cochin,1,13377,24,6,10,0,15,30
+6256,IndiGo,Banglore,Delhi,0,4823,6,12,8,30,2,50
+2475,IndiGo,Kolkata,Banglore,0,4804,15,6,4,40,2,35
+9269,IndiGo,Kolkata,Banglore,0,4804,5,3,4,40,2,35
+5354,Jet Airways,Mumbai,Hyderabad,0,3210,5,9,2,55,1,25
+4095,Jet Airways,Mumbai,Hyderabad,0,8040,21,3,7,10,1,25
+1845,Jet Airways,Banglore,Delhi,0,8016,6,6,11,10,2,55
+2182,Vistara,Chennai,Kolkata,0,11982,6,3,17,45,2,20
+8996,Air India,Mumbai,Hyderabad,0,3100,5,12,6,20,1,20
+274,Air India,Delhi,Cochin,1,4487,4,9,6,5,27,20
+10549,IndiGo,Kolkata,Banglore,1,4864,6,12,7,10,5,30
+6467,Air India,Mumbai,Hyderabad,0,3100,21,3,13,55,1,30
+9042,Jet Airways,Kolkata,Banglore,1,14388,5,12,20,0,13,20
+10162,IndiGo,Banglore,New Delhi,0,7303,24,3,22,20,2,50
+5918,GoAir,Kolkata,Banglore,1,6095,5,9,23,30,8,15
+9518,Jet Airways,Banglore,Delhi,0,8016,6,12,15,15,2,55
+7892,IndiGo,Banglore,Delhi,0,4823,18,6,16,55,3,0
+9682,IndiGo,Chennai,Kolkata,0,3597,6,1,19,35,2,20
+4932,Jet Airways,Mumbai,Hyderabad,0,8040,4,1,7,5,1,25
+7933,Air India,Delhi,Cochin,1,5022,4,6,6,10,16,50
+5255,Air India,Delhi,Cochin,1,7480,6,1,20,40,12,45
+6098,SpiceJet,Kolkata,Banglore,0,3841,21,5,17,10,2,30
+10403,Jet Airways,Banglore,New Delhi,1,12295,3,12,9,45,6,15
+8062,IndiGo,Banglore,New Delhi,0,5734,21,3,6,0,2,45
+467,Multiple carriers,Delhi,Cochin,1,7408,6,9,19,0,6,30
+3891,IndiGo,Mumbai,Hyderabad,0,8853,3,1,16,55,1,30
+8295,IndiGo,Kolkata,Banglore,1,6218,6,12,18,5,5,25
+4869,SpiceJet,Banglore,Delhi,0,3573,21,5,21,10,2,55
+4443,Jet Airways,Delhi,Cochin,1,15554,18,5,19,15,23,45
+1893,IndiGo,Banglore,Delhi,0,3749,27,5,22,10,2,50
+7582,Multiple carriers,Delhi,Cochin,1,7155,24,6,4,55,14,20
+513,Jet Airways,Kolkata,Banglore,1,14388,5,6,8,25,12,20
+1465,Jet Airways,Kolkata,Banglore,1,14939,6,9,21,10,11,5
+7832,IndiGo,Chennai,Kolkata,0,3597,6,9,13,15,2,20
+6604,Air India,Kolkata,Banglore,1,10203,5,9,20,30,12,25
+6090,Jet Airways,Kolkata,Banglore,1,8529,6,12,21,10,12,10
+923,Air India,Kolkata,Banglore,0,6535,3,1,14,15,2,30
+7998,Air Asia,Delhi,Cochin,1,8759,18,5,7,55,5,30
+3099,Jet Airways,Mumbai,Hyderabad,0,2228,5,1,19,35,1,30
+5791,IndiGo,Delhi,Cochin,1,7191,5,9,6,40,14,20
+6586,Vistara,Kolkata,Banglore,1,9870,6,9,17,0,6,25
+474,Vistara,Banglore,New Delhi,0,7923,3,9,16,10,2,40
+5891,Jet Airways,Banglore,Delhi,0,8016,24,6,18,55,3,5
+6309,Jet Airways,Delhi,Cochin,1,7438,27,3,23,5,5,20
+9753,Jet Airways,Kolkata,Banglore,1,10844,6,9,20,0,24,45
+10670,Air India,Kolkata,Banglore,2,11411,5,12,5,50,17,25
+6162,Jet Airways,Kolkata,Banglore,1,8066,5,9,17,0,17,55
+3000,Air India,Delhi,Cochin,1,5117,4,1,17,20,16,5
+1724,Jet Airways,Banglore,New Delhi,1,12284,18,3,8,55,6,20
+6119,Jet Airways,Delhi,Cochin,2,19172,3,9,15,55,12,30
+480,Jet Airways,Kolkata,Banglore,1,8529,6,12,20,0,16,0
+6535,IndiGo,Mumbai,Hyderabad,0,4049,6,9,6,25,1,30
+8248,Air India,Banglore,New Delhi,2,12515,3,12,6,45,26,40
+4120,Jet Airways,Banglore,New Delhi,1,11087,18,3,22,50,10,40
+7944,Jet Airways,Delhi,Cochin,1,14714,27,6,11,30,7,30
+6793,Air India,Delhi,Cochin,2,6565,27,3,7,5,26,20
+4205,Jet Airways,Kolkata,Banglore,1,12692,6,12,9,35,28,50
+4950,IndiGo,Banglore,Delhi,0,4823,5,12,18,25,2,55
+3084,Jet Airways,Delhi,Cochin,1,10262,6,9,9,0,10,0
+2735,Air India,Kolkata,Banglore,2,10676,5,12,12,0,9,50
+7316,IndiGo,Mumbai,Hyderabad,0,2227,24,3,20,5,1,30
+4670,IndiGo,Delhi,Cochin,1,14871,3,6,18,35,7,0
+1355,Jet Airways,Delhi,Cochin,2,15129,21,5,19,30,8,55
+6534,Jet Airways,Banglore,Delhi,0,8016,15,6,11,10,2,55
+7450,SpiceJet,Banglore,Delhi,0,4423,6,12,5,55,2,40
+9821,IndiGo,Delhi,Cochin,1,13611,3,9,15,0,10,35
+8367,Air India,Delhi,Cochin,2,7107,21,3,13,15,20,10
+2208,Jet Airways,Mumbai,Hyderabad,0,4995,5,9,7,5,1,25
+4964,Air India,Banglore,Delhi,0,5228,24,5,21,5,2,50
+3390,Jet Airways,Kolkata,Banglore,1,8586,6,6,6,30,22,10
+7165,Jet Airways,Banglore,Delhi,0,7229,5,12,7,10,3,0
+715,IndiGo,Delhi,Cochin,1,5073,4,1,7,35,4,35
+3369,Jet Airways,Mumbai,Hyderabad,0,4050,15,6,7,5,1,25
+3587,SpiceJet,Banglore,New Delhi,1,7294,3,9,10,20,7,55
+5651,Jet Airways,Kolkata,Banglore,1,8586,18,5,5,45,6,15
+8752,Jet Airways,Delhi,Cochin,1,15554,18,5,2,15,16,45
+1518,Air India,Delhi,Cochin,1,8372,21,5,9,0,10,15
+5812,Jet Airways,Kolkata,Banglore,1,12121,5,1,9,35,12,30
+2318,IndiGo,Delhi,Cochin,1,6442,15,6,11,55,10,35
+3461,Multiple carriers,Delhi,Cochin,1,13587,6,9,18,15,7,15
+1453,Air Asia,Delhi,Cochin,1,11410,6,3,20,45,9,50
+10660,Vistara,Banglore,New Delhi,0,4878,21,3,21,10,2,55
+1022,IndiGo,Delhi,Cochin,1,6442,6,1,6,50,9,20
+706,Jet Airways,Kolkata,Banglore,1,5608,21,5,10,20,7,15
+2345,Multiple carriers,Delhi,Cochin,1,7198,6,6,18,0,7,30
+6212,Multiple carriers,Delhi,Cochin,1,9627,21,5,8,30,10,30
+2115,Vistara,Banglore,New Delhi,0,11913,3,3,19,40,2,40
+9020,IndiGo,Chennai,Kolkata,0,3597,6,1,14,45,2,20
+4939,Multiple carriers,Delhi,Cochin,1,8405,18,5,11,40,13,50
+8598,Multiple carriers,Delhi,Cochin,2,34608,3,9,15,5,10,30
+910,Air India,Delhi,Cochin,2,11972,21,5,17,15,26,0
+3270,Jet Airways,Delhi,Cochin,1,14714,6,12,21,50,6,35
+5548,Multiple carriers,Delhi,Cochin,1,6076,27,3,13,5,9,15
+9001,SpiceJet,Banglore,New Delhi,0,4273,18,3,5,45,2,50
+6720,SpiceJet,Chennai,Kolkata,0,3543,6,1,17,45,2,20
+9160,Air India,Kolkata,Banglore,1,11306,18,5,7,0,13,25
+8457,SpiceJet,Banglore,New Delhi,1,5822,15,3,15,35,8,5
+8725,Multiple carriers,Delhi,Cochin,1,7408,6,3,13,0,8,0
+2201,IndiGo,Banglore,Delhi,0,4591,4,6,23,30,2,50
+10652,Air India,Delhi,Cochin,1,9790,3,9,5,15,25,35
+594,Jet Airways,Kolkata,Banglore,1,10844,5,9,16,30,12,10
+6431,Jet Airways,Kolkata,Banglore,1,10844,15,5,18,55,24,55
+440,Air India,Banglore,Delhi,0,5228,21,4,21,5,2,50
+8889,Air India,Banglore,New Delhi,2,12935,18,3,6,45,9,35
+10425,Air Asia,Kolkata,Banglore,0,4409,4,12,19,55,2,30
+6318,Vistara,Chennai,Kolkata,0,6627,15,3,7,5,2,15
+4632,Air India,Delhi,Cochin,2,11858,3,6,12,0,7,15
+7870,Jet Airways,Delhi,Cochin,1,14714,6,1,14,0,5,0
+8373,Multiple carriers,Delhi,Cochin,1,13377,27,5,13,0,12,30
+10,Air India,Delhi,Cochin,1,8907,6,1,9,45,13,15
+9412,Jet Airways,Delhi,Cochin,1,12898,27,5,19,15,9,10
+4077,Jet Airways,Kolkata,Banglore,1,14388,5,12,18,55,13,20
+7525,Multiple carriers,Delhi,Cochin,1,12524,6,1,11,40,7,20
+8819,Jet Airways,Delhi,Cochin,2,15129,24,5,19,10,23,50
+93,Air India,Delhi,Cochin,2,13748,3,6,5,55,13,20
+2471,Jet Airways,Delhi,Cochin,2,10909,4,9,5,30,22,55
+5305,IndiGo,Delhi,Cochin,1,6104,6,3,17,10,8,20
+9057,Jet Airways,Banglore,New Delhi,1,13502,3,6,14,5,18,10
+7931,SpiceJet,Mumbai,Hyderabad,0,2753,15,3,22,45,1,25
+6971,Jet Airways,Delhi,Cochin,0,9564,21,6,11,0,3,15
+5344,SpiceJet,Banglore,Delhi,0,3971,27,4,21,10,2,55
+2705,IndiGo,Kolkata,Banglore,1,6218,5,6,18,5,5,25
+292,Jet Airways,Kolkata,Banglore,1,10844,6,6,20,0,22,15
+790,Air India,Kolkata,Banglore,2,14687,5,9,9,25,20,0
+4789,Jet Airways,Kolkata,Banglore,1,13626,6,12,14,5,5,45
+6616,Jet Airways,Delhi,Cochin,1,12898,21,5,20,55,15,40
+6233,Jet Airways,Delhi,Cochin,1,12719,21,3,2,15,26,10
+3433,IndiGo,Banglore,Delhi,0,4077,4,3,13,0,2,50
+5960,IndiGo,Delhi,Cochin,0,5021,18,3,21,5,3,15
+6243,Jet Airways,Kolkata,Banglore,1,13626,6,12,6,30,11,45
+8570,Jet Airways,Delhi,Cochin,1,10262,6,6,15,0,13,25
+6409,Air India,Mumbai,Hyderabad,0,2050,21,3,21,5,1,20
+1323,SpiceJet,Delhi,Cochin,1,8382,3,9,6,10,5,10
+6896,Jet Airways,Delhi,Cochin,1,16079,21,5,19,45,23,15
+2919,Air India,Delhi,Cochin,2,9443,21,5,19,45,23,30
+5048,Jet Airways,Kolkata,Banglore,1,14781,5,6,8,25,11,25
+7544,Jet Airways,Delhi,Cochin,1,12767,21,3,7,5,11,45
+8055,Jet Airways,Kolkata,Banglore,1,13759,24,3,19,45,9,0
+3416,Jet Airways,Delhi,Cochin,1,10152,27,5,2,15,10,20
+6507,Air India,Banglore,New Delhi,1,13859,18,3,0,30,8,15
+6626,Multiple carriers,Delhi,Cochin,1,13377,6,6,13,0,12,30
+8877,IndiGo,Banglore,Delhi,0,4823,4,6,8,30,2,50
+4185,Air India,Delhi,Cochin,1,15809,3,6,7,0,12,15
+8747,SpiceJet,Mumbai,Hyderabad,0,2017,5,6,5,45,1,30
+4213,Multiple carriers,Delhi,Cochin,1,7155,6,12,4,55,14,20
+9164,Jet Airways,Delhi,Cochin,1,12898,27,5,13,0,6,0
+3087,Vistara,Kolkata,Banglore,1,8662,5,6,20,20,14,25
+10258,Air India,Kolkata,Banglore,0,6245,6,1,14,15,2,30
+2443,Air India,Banglore,Delhi,0,6121,5,9,21,5,2,50
+4854,Jet Airways,Delhi,Cochin,2,12819,27,6,19,10,23,50
+3163,Air India,Kolkata,Banglore,2,12797,24,5,9,25,25,5
+6232,Multiple carriers,Delhi,Cochin,1,12192,6,9,7,0,12,0
+1729,IndiGo,Delhi,Cochin,1,6069,18,5,16,0,5,0
+3822,IndiGo,Banglore,Delhi,0,4591,18,4,1,30,2,45
+5437,SpiceJet,Chennai,Kolkata,0,3911,5,9,8,20,2,15
+5989,IndiGo,Chennai,Kolkata,0,7900,3,1,11,35,2,25
+10551,Air India,Delhi,Cochin,2,13591,18,5,6,50,24,50
+6975,IndiGo,Kolkata,Banglore,0,4804,6,3,9,35,2,35
+2492,Jet Airways,Delhi,Cochin,1,10262,6,6,20,55,7,30
+839,Jet Airways,Delhi,Cochin,1,10262,27,6,7,5,11,55
+9396,Jet Airways,Delhi,Cochin,2,12814,21,3,5,25,37,25
+5804,SpiceJet,Banglore,Delhi,0,3625,6,1,5,55,2,40
+227,IndiGo,Banglore,Delhi,0,3943,27,4,23,30,2,50
+1806,Multiple carriers,Delhi,Cochin,1,13977,3,9,0,20,7,20
+3186,Air India,Kolkata,Banglore,2,7893,4,1,16,50,25,30
+4716,Jet Airways,Delhi,Cochin,1,14714,6,3,19,15,23,45
+6828,IndiGo,Delhi,Cochin,1,6316,15,6,16,0,9,30
+3050,Multiple carriers,Delhi,Cochin,1,7354,6,12,7,30,11,45
+3036,IndiGo,Banglore,Delhi,0,4591,15,4,23,30,2,50
+3411,Jet Airways,Delhi,Cochin,1,5963,27,3,9,55,8,55
+9433,Jet Airways,Kolkata,Banglore,1,14571,24,5,6,30,11,45
+3303,Jet Airways,Kolkata,Banglore,1,14571,6,9,18,55,17,5
+5591,Jet Airways,Banglore,New Delhi,1,7832,21,3,11,40,23,45
+157,IndiGo,Banglore,New Delhi,0,8855,3,3,18,55,2,50
+6490,Multiple carriers,Delhi,Cochin,1,13587,27,6,8,0,13,0
+6448,Jet Airways,Kolkata,Banglore,1,10539,6,6,20,25,13,20
+9224,Air India,Mumbai,Hyderabad,2,11342,3,12,5,30,9,20
+4337,IndiGo,Banglore,New Delhi,1,8434,3,9,6,25,5,5
+1448,Multiple carriers,Delhi,Cochin,1,12927,24,6,9,0,10,0
+2703,GoAir,Banglore,Delhi,0,4239,4,1,7,45,2,55
+10184,IndiGo,Mumbai,Hyderabad,0,2754,27,3,12,0,1,25
+701,Air India,Banglore,Delhi,0,5228,5,6,10,0,2,45
+3872,Multiple carriers,Delhi,Cochin,1,15136,3,6,13,55,7,5
+5270,IndiGo,Chennai,Kolkata,0,3850,5,12,7,55,2,20
+9959,Jet Airways,Delhi,Cochin,2,10929,27,3,19,10,33,15
+8454,Jet Airways,Delhi,Cochin,0,7989,27,5,11,0,3,15
+3045,Multiple carriers,Delhi,Cochin,1,6106,4,9,10,35,8,40
+8004,Jet Airways,Banglore,New Delhi,1,17261,3,6,11,40,23,45
+6484,IndiGo,Kolkata,Banglore,1,4226,21,5,6,20,4,0
+4640,IndiGo,Mumbai,Hyderabad,0,3603,21,3,2,30,1,30
+4315,Multiple carriers,Delhi,Cochin,1,11789,27,6,8,45,10,15
+9497,Multiple carriers,Delhi,Cochin,1,13587,6,6,7,5,13,55
+9008,Multiple carriers,Delhi,Cochin,1,13377,24,6,11,30,14,0
+4152,Jet Airways,Delhi,Cochin,1,14714,24,6,11,30,7,30
+7834,Air India,Mumbai,Hyderabad,0,2050,15,3,15,0,1,25
+1899,Multiple carriers,Delhi,Cochin,1,8307,21,3,8,0,7,30
+3579,Jet Airways,Kolkata,Banglore,1,10031,24,3,21,10,23,30
+7083,Jet Airways,Mumbai,Hyderabad,0,4995,15,5,10,20,1,30
+4312,Air India,Delhi,Cochin,1,7480,18,5,12,30,20,55
+8479,IndiGo,Mumbai,Hyderabad,0,2754,6,3,12,0,1,30
+8476,Jet Airways,Delhi,Cochin,1,14714,6,3,10,0,9,0
+2555,Jet Airways,Kolkata,Banglore,1,13584,5,9,20,0,22,15
+6274,Jet Airways,Delhi,Cochin,1,10262,6,12,11,30,16,55
+2958,SpiceJet,Banglore,Delhi,0,4423,21,4,5,55,2,40
+1408,Jet Airways,Banglore,New Delhi,1,13555,18,3,8,55,10,15
+1550,Jet Airways,Delhi,Cochin,1,12898,21,5,8,0,11,0
+2336,Air India,Kolkata,Banglore,2,12723,24,5,5,50,17,25
+8019,Air India,Delhi,Cochin,1,12677,3,6,6,5,27,20
+10480,Vistara,Banglore,Delhi,0,5088,6,6,19,30,2,45
+8662,IndiGo,Kolkata,Banglore,0,4804,5,3,17,15,2,35
+3639,Jet Airways,Banglore,New Delhi,1,7832,21,3,20,35,14,50
+6298,Jet Airways,Kolkata,Banglore,1,8586,21,5,6,30,25,45
+2850,Jet Airways,Delhi,Cochin,1,14714,6,6,2,15,10,20
+6398,Multiple carriers,Delhi,Cochin,1,13727,18,5,8,0,13,0
+6306,Air India,Delhi,Cochin,1,8669,6,12,7,0,12,15
+9725,IndiGo,Delhi,Cochin,1,6206,27,5,17,10,8,20
+603,Jet Airways,Banglore,New Delhi,1,9134,15,3,8,0,23,40
+8895,Air India,Kolkata,Banglore,1,8366,6,9,9,25,12,25
+10655,Jet Airways,Mumbai,Hyderabad,0,5678,5,3,2,55,1,25
+7318,Jet Airways,Delhi,Cochin,2,11507,27,6,21,25,15,10
+393,IndiGo,Delhi,Cochin,1,14871,3,3,17,30,8,5
+1741,IndiGo,Mumbai,Hyderabad,0,2227,18,6,21,20,1,30
+7273,Multiple carriers,Delhi,Cochin,1,14067,21,5,18,15,7,15
+6699,Vistara,Kolkata,Banglore,1,7927,6,12,17,0,16,5
+9096,IndiGo,Banglore,Delhi,0,3943,21,5,10,10,2,50
+95,IndiGo,Chennai,Kolkata,0,3540,21,6,5,15,2,25
+1817,Jet Airways,Delhi,Cochin,1,16289,3,9,18,15,24,35
+1966,SpiceJet,Delhi,Cochin,1,4812,4,1,8,45,4,30
+7597,IndiGo,Chennai,Kolkata,0,3384,27,3,14,40,2,25
+9255,Jet Airways,Mumbai,Hyderabad,0,5678,27,5,2,55,1,25
+2853,Air India,Kolkata,Banglore,2,10676,18,5,12,0,23,10
+9787,Jet Airways,Kolkata,Banglore,1,12681,4,1,16,30,12,10
+6208,Multiple carriers,Delhi,Cochin,1,6717,21,3,7,5,9,5
+7134,IndiGo,Delhi,Cochin,1,5298,15,5,6,50,5,20
+9145,IndiGo,Kolkata,Banglore,0,4804,18,5,20,20,2,35
+5554,GoAir,Delhi,Cochin,1,5842,5,9,7,25,6,10
+7624,Jet Airways,Kolkata,Banglore,1,10844,21,5,6,30,13,20
+7023,Jet Airways,Mumbai,Hyderabad,0,4050,5,12,7,5,1,25
+6435,SpiceJet,Mumbai,Hyderabad,0,2017,24,5,5,45,1,30
+6601,Multiple carriers Premium economy,Delhi,Cochin,1,13369,21,3,6,0,6,35
+5347,Multiple carriers,Delhi,Cochin,1,15077,3,6,11,30,7,45
+8513,SpiceJet,Banglore,Delhi,0,3919,4,1,5,55,2,40
+5540,Air India,Kolkata,Banglore,1,7662,6,9,16,45,28,20
+1638,Jet Airways,Kolkata,Banglore,1,9663,5,12,18,55,15,10
+2040,Air India,Delhi,Cochin,2,8341,4,9,22,0,21,15
+9835,Air India,Delhi,Cochin,2,13381,6,9,20,15,23,0
+5759,Air India,Delhi,Cochin,1,8372,6,3,13,0,6,15
+7895,Jet Airways,Kolkata,Banglore,1,10844,5,6,16,30,6,5
+6664,Jet Airways,Delhi,Cochin,1,10262,6,1,14,0,5,0
+3040,Jet Airways,Delhi,Cochin,1,10262,6,12,9,0,10,0
+1361,IndiGo,Delhi,Cochin,1,6386,6,6,2,0,5,45
+3851,Jet Airways,Delhi,Cochin,2,20904,3,9,20,10,8,15
+2131,Jet Airways,Kolkata,Banglore,1,10844,6,9,6,30,5,30
+9976,Air India,Kolkata,Banglore,1,4647,4,9,19,0,16,5
+9558,Vistara,Banglore,Delhi,0,4878,6,3,17,0,2,35
+10681,Vistara,Banglore,New Delhi,0,12648,3,1,11,30,2,40
+3420,Air India,Kolkata,Banglore,2,11222,21,5,8,20,23,35
+5462,Jet Airways,Delhi,Cochin,1,10262,24,6,11,30,16,55
+5295,Jet Airways,Delhi,Cochin,1,12898,27,5,9,0,19,25
+9464,Jet Airways,Kolkata,Banglore,1,14781,5,1,16,30,7,5
+4196,Jet Airways,Kolkata,Banglore,1,10844,6,6,20,0,23,50
+9695,Jet Airways,Delhi,Cochin,1,5177,4,6,22,50,13,45
+4601,IndiGo,Kolkata,Banglore,1,5069,5,1,8,10,4,50
+5824,Jet Airways,Kolkata,Banglore,1,9663,21,5,14,5,20,0
+2227,Air India,Mumbai,Hyderabad,1,10208,3,12,19,40,13,30
+19,Jet Airways,Delhi,Cochin,1,12898,27,5,16,0,20,35
+3324,Vistara,Kolkata,Banglore,1,8610,15,5,17,0,27,20
+5188,Air India,Delhi,Cochin,1,7258,6,3,17,40,15,55
+4138,Jet Airways,Delhi,Cochin,1,5406,4,1,18,15,18,20
+6916,Jet Airways,Kolkata,Banglore,1,10539,6,6,9,35,25,20
+1606,Multiple carriers,Delhi,Cochin,1,17057,3,3,7,5,13,55
+3771,Vistara,Kolkata,Banglore,1,7927,4,1,7,10,11,40
+7685,IndiGo,Delhi,Cochin,0,6015,5,12,5,35,3,15
+5568,Jet Airways,Banglore,Delhi,0,7229,4,6,8,20,3,0
+7893,Vistara,Kolkata,Banglore,1,12102,24,3,17,0,27,25
+6662,Jet Airways,Banglore,New Delhi,1,16736,3,6,7,0,16,0
+5204,Jet Airways,Mumbai,Hyderabad,0,4995,21,6,2,55,1,25
+6275,IndiGo,Delhi,Cochin,0,4729,4,3,14,20,3,15
+1697,IndiGo,Kolkata,Banglore,1,5069,6,9,8,10,4,50
+1266,Multiple carriers,Delhi,Cochin,1,12192,6,12,8,0,11,0
+8948,Air India,Delhi,Cochin,2,9601,15,5,12,0,7,15
+811,IndiGo,Delhi,Cochin,1,6412,15,5,14,20,8,10
+5571,Jet Airways,Delhi,Cochin,1,14714,6,3,13,0,6,0
+2906,Jet Airways,Delhi,Cochin,1,16079,21,5,16,0,27,0
+7631,Jet Airways,Delhi,Cochin,1,14714,6,1,9,0,10,0
+2533,Air India,Delhi,Cochin,2,13538,21,5,13,20,18,20
+5101,Jet Airways,Delhi,Cochin,1,12898,27,5,14,0,14,25
+3696,IndiGo,Kolkata,Banglore,0,4804,6,6,14,25,2,30
+10025,Multiple carriers,Delhi,Cochin,1,11264,27,6,10,20,8,40
+8243,Jet Airways,Banglore,New Delhi,1,9134,15,3,5,45,10,25
+7016,Jet Airways,Delhi,Cochin,1,10262,6,9,7,5,21,20
+1147,IndiGo,Kolkata,Banglore,0,4804,24,6,21,25,2,40
+7302,Jet Airways,Kolkata,Banglore,1,9314,5,9,20,25,18,0
+8459,Jet Airways,Mumbai,Hyderabad,0,4995,6,12,7,5,1,25
+6861,IndiGo,Banglore,Delhi,0,3419,24,4,0,30,2,55
+3024,Jet Airways,Banglore,New Delhi,1,7832,21,3,11,40,9,40
+5084,Air India,Banglore,New Delhi,1,6781,3,3,8,15,24,35
+3552,Jet Airways,Kolkata,Banglore,1,13941,5,12,8,25,11,25
+8756,Vistara,Kolkata,Banglore,1,9555,18,5,17,0,25,50
+2498,Vistara,Banglore,Delhi,0,5403,4,9,11,30,2,50
+4801,Jet Airways,Kolkata,Banglore,1,11134,24,3,16,55,19,5
+7687,Multiple carriers,Delhi,Cochin,1,7564,18,5,6,40,12,35
+4705,Jet Airways,Delhi,Cochin,2,8728,27,3,5,10,13,40
+1996,Multiple carriers,Delhi,Cochin,1,10197,5,9,7,0,12,0
+4331,Air India,Kolkata,Banglore,1,7662,24,5,9,50,11,15
+6635,Jet Airways,Delhi,Cochin,2,15439,4,9,11,40,7,20
+3617,Vistara,Kolkata,Banglore,1,9555,6,9,7,10,13,10
+9345,Multiple carriers,Delhi,Cochin,1,8283,18,5,17,0,8,30
+1758,IndiGo,Kolkata,Banglore,0,4804,18,6,20,25,2,45
+7527,Air India,Banglore,New Delhi,1,5092,21,3,11,50,25,10
+620,Air India,Banglore,New Delhi,2,12725,3,12,17,25,30,0
+9092,IndiGo,Delhi,Cochin,1,13611,3,6,4,45,8,35
+10506,Air India,Delhi,Cochin,2,12646,3,3,19,45,23,30
+1751,Jet Airways,Delhi,Cochin,1,12898,27,5,16,0,27,0
+6456,GoAir,Delhi,Cochin,1,6195,24,4,7,0,5,55
+10620,IndiGo,Kolkata,Banglore,0,4174,4,6,17,15,2,35
+4572,Jet Airways,Kolkata,Banglore,1,14781,5,1,14,5,9,30
+1050,Multiple carriers,Delhi,Cochin,1,7155,24,6,10,35,8,40
+3446,IndiGo,Banglore,New Delhi,0,4545,18,3,22,20,2,50
+3835,SpiceJet,Kolkata,Banglore,0,5515,3,1,9,0,2,30
+4025,IndiGo,Mumbai,Hyderabad,0,4392,21,6,16,55,1,30
+7188,Jet Airways,Kolkata,Banglore,1,13759,24,3,19,45,20,35
+1575,Jet Airways,Delhi,Cochin,1,12373,5,9,19,15,9,10
+462,SpiceJet,Delhi,Cochin,1,4957,24,4,17,55,4,55
+744,Jet Airways,Mumbai,Hyderabad,0,4050,6,9,2,55,1,25
+222,Jet Airways,Mumbai,Hyderabad,0,4995,18,3,7,10,1,25
+9410,Vistara,Banglore,Delhi,0,4668,27,5,7,0,2,40
+4884,Jet Airways,Kolkata,Banglore,1,10953,5,12,20,25,27,10
+625,Jet Airways,Banglore,New Delhi,1,13817,3,12,22,55,8,45
+2543,Air India,Banglore,New Delhi,2,11213,3,1,10,30,10,55
+8368,Jet Airways,Delhi,Cochin,2,13292,6,9,21,25,21,35
+5100,Vistara,Kolkata,Banglore,1,8662,5,12,7,10,15,30
+5794,Jet Airways,Delhi,Cochin,1,10262,6,3,18,15,24,45
+9849,Jet Airways,Delhi,Cochin,1,14714,6,6,14,0,5,0
+8220,Jet Airways,Delhi,Cochin,1,10262,24,6,21,50,6,35
+8387,IndiGo,Banglore,Delhi,0,3943,4,1,4,0,2,50
+4440,Multiple carriers,Delhi,Cochin,1,9001,15,5,11,40,7,35
+1320,IndiGo,Kolkata,Banglore,1,4775,5,6,15,15,4,50
+7383,Jet Airways,Banglore,Delhi,0,7229,4,1,7,10,3,0
+2636,GoAir,Kolkata,Banglore,1,7335,18,5,23,30,8,15
+2642,Jet Airways,Delhi,Cochin,1,10262,6,3,17,30,10,55
+7437,Jet Airways,Delhi,Cochin,1,10262,6,12,22,50,5,35
+353,Air India,Banglore,New Delhi,1,13439,3,1,11,5,22,10
+6062,Jet Airways,Delhi,Cochin,1,7438,21,3,2,15,16,35
+456,Jet Airways,Delhi,Cochin,1,5177,4,3,14,0,5,0
+9248,Multiple carriers,Delhi,Cochin,1,6093,15,6,14,55,7,35
+5646,Air India,Banglore,Delhi,0,6121,21,4,6,10,2,45
+239,Multiple carriers,Delhi,Cochin,1,12524,24,6,8,45,10,15
+4508,Multiple carriers,Delhi,Cochin,2,18275,6,1,15,5,10,25
+3828,IndiGo,Banglore,Delhi,0,4077,5,9,6,5,2,45
+2305,Air India,Kolkata,Banglore,2,13033,21,5,10,0,15,20
+5854,Air India,Kolkata,Banglore,2,11542,21,5,9,25,28,20
+8450,IndiGo,Kolkata,Banglore,0,4148,3,9,21,25,2,40
+2951,Jet Airways,Mumbai,Hyderabad,0,5678,21,3,3,5,1,20
+5062,Air India,Delhi,Cochin,0,5201,24,4,18,5,3,5
+8992,Jet Airways,Banglore,New Delhi,1,12284,18,3,7,0,9,10
+6311,Air India,Banglore,Delhi,0,7171,6,9,17,0,2,45
+1020,Air India,Kolkata,Banglore,2,14960,15,5,16,45,19,45
+8060,Jet Airways,Banglore,Delhi,0,3502,5,12,19,50,3,0
+10509,Jet Airways,Delhi,Cochin,0,9564,27,5,11,0,3,15
+1600,Multiple carriers,Delhi,Cochin,1,7888,21,5,17,0,8,30
+1771,Jet Airways,Kolkata,Banglore,1,14781,5,6,6,30,13,20
+10400,IndiGo,Banglore,Delhi,0,4823,6,1,18,55,2,55
+2615,IndiGo,Kolkata,Banglore,0,4804,24,6,20,20,2,35
+9344,IndiGo,Delhi,Cochin,0,6015,5,9,14,25,3,15
+9025,SpiceJet,Banglore,Delhi,0,3573,27,5,9,30,2,50
+1678,Jet Airways,Kolkata,Banglore,1,9663,15,5,18,55,15,10
+1108,Jet Airways,Delhi,Cochin,1,10262,15,6,17,30,10,55
+9292,Vistara,Kolkata,Banglore,1,8452,4,1,20,20,24,0
+7975,IndiGo,Delhi,Cochin,1,5298,6,12,6,50,5,20
+8578,IndiGo,Chennai,Kolkata,0,6297,15,3,14,40,2,25
+4860,IndiGo,Delhi,Cochin,1,6600,27,5,5,5,11,5
+4044,Air India,Kolkata,Banglore,2,12723,6,6,5,50,30,40
+4969,SpiceJet,Banglore,Delhi,0,4423,5,3,9,30,2,50
+8562,Jet Airways,Delhi,Cochin,2,16914,3,9,5,25,23,0
+5290,IndiGo,Kolkata,Banglore,0,4804,5,1,22,15,2,35
+10160,Multiple carriers,Delhi,Cochin,1,24318,3,6,17,0,8,35
+4482,Jet Airways,Delhi,Cochin,1,14714,6,3,16,0,12,25
+9847,IndiGo,Chennai,Kolkata,0,5277,15,5,22,5,2,20
+3477,Air India,Banglore,Delhi,0,6121,21,4,13,20,2,50
+3164,Jet Airways,Kolkata,Banglore,1,13067,24,5,20,25,14,30
+8434,Jet Airways,Delhi,Cochin,2,12074,27,3,5,40,22,45
+9965,Jet Airways,Delhi,Cochin,1,10262,15,6,7,5,21,20
+1389,Jet Airways,Delhi,Cochin,2,15129,5,9,9,40,9,20
+10042,IndiGo,Mumbai,Hyderabad,0,3175,27,3,6,20,1,25
+6017,Air Asia,Kolkata,Banglore,0,3807,4,6,19,55,2,30
+7592,Jet Airways,Kolkata,Banglore,1,7064,4,1,16,30,28,15
+217,IndiGo,Banglore,Delhi,0,4077,6,1,1,30,2,45
+10118,IndiGo,Kolkata,Banglore,1,4966,4,9,11,30,4,35
+6132,IndiGo,Delhi,Cochin,0,7673,3,6,14,30,3,5
+8568,Jet Airways,Delhi,Cochin,2,10368,6,3,19,30,17,5
+8946,Jet Airways,Kolkata,Banglore,1,12692,6,12,17,0,21,25
+3359,Air Asia,Kolkata,Banglore,0,4409,6,1,22,50,2,30
+1037,Jet Airways,Kolkata,Banglore,1,7757,5,9,20,0,12,15
+216,Vistara,Kolkata,Banglore,1,9555,6,9,7,10,11,40
+3571,Air India,Delhi,Cochin,1,8907,15,6,9,45,13,15
+7389,Vistara,Banglore,Delhi,0,5613,21,6,21,0,2,50
+6985,Jet Airways,Delhi,Cochin,2,13292,6,9,9,35,18,50
+3312,Jet Airways,Kolkata,Banglore,1,14914,24,3,21,10,12,55
+908,Multiple carriers,Delhi,Cochin,1,9871,5,9,8,0,11,15
+4915,IndiGo,Kolkata,Banglore,0,4174,4,3,17,15,2,35
+6950,Air Asia,Delhi,Cochin,1,8327,3,9,16,45,5,30
+6319,Jet Airways,Kolkata,Banglore,1,8586,5,12,6,30,5,30
+3352,SpiceJet,Banglore,New Delhi,0,7648,3,3,9,35,2,55
+3124,Jet Airways,Delhi,Cochin,1,10262,24,6,11,30,25,5
+7488,Air India,Banglore,Delhi,0,5228,18,6,21,5,2,50
+8470,Jet Airways,Banglore,New Delhi,1,27992,3,1,14,5,6,15
+8009,IndiGo,Delhi,Cochin,1,6314,6,1,4,55,16,5
+6171,SpiceJet,Kolkata,Banglore,0,4491,18,5,9,0,2,25
+7272,Air Asia,Delhi,Cochin,1,6151,27,3,7,55,5,15
+9385,Jet Airways,Banglore,Delhi,0,8016,15,6,17,45,3,0
+6952,IndiGo,Kolkata,Banglore,1,7095,6,9,15,10,5,20
+2169,Jet Airways,Banglore,Delhi,0,7229,4,6,17,45,3,0
+2672,Jet Airways,Banglore,New Delhi,2,11245,18,3,8,55,7,0
+1794,Jet Airways,Delhi,Cochin,1,12242,21,3,22,0,6,25
+9215,Air India,Kolkata,Banglore,1,8366,6,6,16,50,18,20
+9312,Jet Airways,Kolkata,Banglore,1,13941,5,1,14,5,20,0
+9123,Jet Airways,Kolkata,Banglore,1,13584,5,6,21,10,11,5
+854,Multiple carriers,Delhi,Cochin,1,16108,15,6,13,0,6,15
+3314,GoAir,Banglore,Delhi,0,4632,21,4,7,45,2,55
+9074,Jet Airways,Delhi,Cochin,2,8098,27,3,17,35,26,10
+10559,Air India,Delhi,Cochin,1,8372,27,5,21,0,22,15
+10625,Jet Airways,Delhi,Cochin,2,19644,5,9,11,40,7,20
+3735,Jet Airways,Banglore,Delhi,0,6478,18,6,6,0,2,45
+3754,Jet Airways,Kolkata,Banglore,1,10539,6,6,20,25,21,35
+5497,Multiple carriers,Delhi,Cochin,1,5999,21,3,14,35,7,45
+7715,Jet Airways,Kolkata,Banglore,1,7064,4,1,6,30,25,45
+6732,IndiGo,Delhi,Cochin,1,6147,27,5,2,0,5,45
+5589,Jet Airways,Delhi,Cochin,1,14714,6,1,21,50,14,45
+1721,Air India,Banglore,New Delhi,1,11161,18,3,13,50,28,50
+5838,Multiple carriers,Delhi,Cochin,3,15419,6,12,11,35,13,55
+3901,IndiGo,Chennai,Kolkata,0,3597,5,6,14,45,2,20
+748,IndiGo,Delhi,Cochin,1,6979,15,5,10,35,14,55
+6989,IndiGo,Kolkata,Banglore,1,5069,15,5,8,10,4,50
+1576,Multiple carriers,Delhi,Cochin,1,11789,15,6,11,40,7,20
+5938,Jet Airways,Banglore,New Delhi,1,13817,3,12,22,55,12,30
+347,Jet Airways,Delhi,Cochin,2,11507,6,12,21,25,15,10
+8541,Jet Airways,Kolkata,Banglore,1,13941,18,5,20,0,8,40
+6771,Jet Airways,Mumbai,Hyderabad,0,2071,27,3,15,50,1,30
+2727,IndiGo,Delhi,Cochin,1,14871,3,3,8,25,7,5
+7744,IndiGo,Banglore,Delhi,0,4077,21,6,23,30,2,50
+3679,IndiGo,Mumbai,Hyderabad,0,2754,4,1,2,35,1,30
+1863,Air India,Delhi,Cochin,2,14746,3,6,12,0,19,40
+3360,IndiGo,Delhi,Cochin,1,5054,6,9,7,35,4,35
+6941,Jet Airways,Delhi,Cochin,1,14714,15,6,9,0,10,0
+4706,Air Asia,Delhi,Cochin,1,7452,18,5,20,45,10,25
+10199,Jet Airways,Kolkata,Banglore,1,10844,18,5,20,0,24,45
+7167,Jet Airways,Banglore,New Delhi,1,13502,3,6,14,5,17,35
+5406,SpiceJet,Chennai,Kolkata,0,3597,27,5,8,20,2,15
+6800,SpiceJet,Kolkata,Banglore,1,4649,5,12,15,5,5,15
+3437,Jet Airways,Kolkata,Banglore,1,14151,5,12,17,0,16,45
+5749,IndiGo,Delhi,Cochin,1,5298,5,9,6,50,5,20
+3328,Multiple carriers,Delhi,Cochin,1,6795,6,1,10,20,15,10
+4977,IndiGo,Banglore,New Delhi,1,5694,3,9,7,30,4,50
+9958,Multiple carriers,Delhi,Cochin,1,8937,6,1,11,25,7,50
+764,IndiGo,Banglore,Delhi,0,4423,4,9,10,10,2,50
+5662,Jet Airways,Banglore,New Delhi,1,31825,3,1,20,35,14,50
+7227,Jet Airways,Delhi,Cochin,1,14714,6,3,20,55,7,30
+1876,Air India,Kolkata,Banglore,2,11432,21,5,9,25,20,10
+8336,Jet Airways,Mumbai,Hyderabad,0,3210,18,6,19,35,1,30
+9424,Jet Airways,Banglore,Delhi,0,7229,5,9,19,50,3,0
+4787,Air India,Kolkata,Banglore,1,6117,15,5,19,0,9,40
+1493,Jet Airways,Delhi,Cochin,1,16079,21,5,19,45,8,40
+1227,IndiGo,Delhi,Cochin,1,6938,27,5,14,20,8,10
+6739,Multiple carriers,Delhi,Cochin,1,15147,3,6,8,55,6,35
+10076,SpiceJet,Kolkata,Banglore,0,3841,4,9,22,20,2,20
+10508,Multiple carriers,Delhi,Cochin,1,13377,27,6,10,0,15,30
+4805,SpiceJet,Banglore,New Delhi,0,6860,3,3,5,45,2,50
+10221,Air India,Mumbai,Hyderabad,0,2575,24,3,6,20,1,20
+6282,Jet Airways,Kolkata,Banglore,1,14388,15,5,21,10,11,5
+4970,Jet Airways,Kolkata,Banglore,1,14178,6,9,6,30,22,10
+8706,Vistara,Banglore,Delhi,0,4878,18,5,17,0,2,35
+10269,IndiGo,Kolkata,Banglore,0,4462,3,9,15,10,2,35
+7712,IndiGo,Kolkata,Banglore,1,7228,5,12,21,0,5,15
+3739,Vistara,Banglore,Delhi,0,4878,27,5,17,0,2,35
+709,Vistara,Banglore,Delhi,0,4878,15,6,17,0,2,35
+6021,IndiGo,Banglore,Delhi,0,3943,6,1,13,0,2,50
+1582,Jet Airways,Kolkata,Banglore,1,11841,6,9,18,55,13,20
+509,Jet Airways,Delhi,Cochin,2,10368,6,1,5,30,22,55
+9391,IndiGo,Delhi,Cochin,1,6979,15,5,11,25,9,35
+499,Jet Airways,Delhi,Cochin,2,14237,6,12,18,25,18,10
+7065,IndiGo,Delhi,Cochin,0,6015,27,5,14,25,3,15
+8333,Jet Airways,Mumbai,Hyderabad,0,4995,5,6,10,20,1,30
+6093,Multiple carriers,Delhi,Cochin,1,11622,27,3,10,45,8,5
+2476,Jet Airways,Kolkata,Banglore,1,10031,24,3,8,25,20,20
+2698,Air India,Kolkata,Banglore,2,13222,18,5,9,25,28,20
+4567,Vistara,Mumbai,Hyderabad,1,12395,3,6,20,55,19,50
+7606,GoAir,Delhi,Cochin,1,7870,24,6,14,25,5,10
+1264,Air Asia,Banglore,Delhi,0,3383,5,6,23,55,2,50
+5185,Jet Airways,Delhi,Cochin,1,17549,3,9,8,0,20,25
+9100,IndiGo,Delhi,Cochin,1,5883,15,6,18,35,6,55
+8651,IndiGo,Chennai,Kolkata,0,3850,5,9,7,55,2,20
+4971,SpiceJet,Delhi,Cochin,1,4760,24,6,8,45,4,30
+7973,Jet Airways,Banglore,New Delhi,1,19225,3,6,5,45,4,40
+9368,Jet Airways,Delhi,Cochin,2,13014,6,12,9,40,9,20
+712,Jet Airways,Delhi,Cochin,2,10976,27,3,19,10,24,35
+7223,Jet Airways,Kolkata,Banglore,1,14151,6,6,9,35,12,30
+9732,Multiple carriers,Delhi,Cochin,1,15077,3,6,6,40,12,35
+2435,Jet Airways,Kolkata,Banglore,1,14571,6,9,6,30,13,20
+6920,Jet Airways,Kolkata,Banglore,1,8586,5,1,18,55,15,10
+9984,SpiceJet,Kolkata,Banglore,0,3841,15,5,22,20,2,20
+1378,SpiceJet,Chennai,Kolkata,0,3543,15,6,8,20,2,15
+1804,Air India,Delhi,Cochin,2,10283,3,6,5,0,38,15
+4102,Air Asia,Banglore,Delhi,0,4483,5,3,23,55,2,50
+713,Jet Airways,Kolkata,Banglore,1,10031,24,3,19,45,20,35
+3516,Air India,Kolkata,Banglore,2,12324,21,5,8,20,12,5
+1250,Jet Airways,Delhi,Cochin,1,12898,21,5,21,50,6,35
+2044,IndiGo,Banglore,New Delhi,0,4777,24,3,4,0,2,50
+2874,Jet Airways,Kolkata,Banglore,1,10539,6,9,20,25,24,40
+5725,Multiple carriers,Delhi,Cochin,1,7740,18,5,14,55,7,35
+2423,SpiceJet,Kolkata,Banglore,0,3847,18,3,22,20,2,20
+3773,IndiGo,Delhi,Cochin,1,8285,21,3,9,10,11,50
+7410,Air Asia,Kolkata,Banglore,1,6857,6,9,6,50,3,40
+716,IndiGo,Chennai,Kolkata,0,4326,27,3,5,15,2,20
+2083,Air India,Mumbai,Hyderabad,0,2575,27,3,19,30,1,15
+7757,IndiGo,Banglore,Delhi,0,3419,15,5,0,30,2,55
+1489,Jet Airways,Banglore,Delhi,0,7229,5,9,15,15,2,55
+7331,Air India,Delhi,Cochin,2,9417,6,12,17,15,16,10
+9228,Air India,Kolkata,Banglore,2,13243,5,12,10,0,15,20
+4039,Jet Airways,Kolkata,Banglore,1,13067,5,12,9,35,28,50
+1805,Air India,Kolkata,Banglore,1,7795,24,3,9,50,11,15
+6937,Jet Airways,Delhi,Cochin,1,12898,21,5,17,30,25,30
+8024,Air India,Delhi,Cochin,2,12751,6,6,13,20,18,20
+9564,Multiple carriers,Delhi,Cochin,1,13727,5,9,14,0,7,0
+6284,Multiple carriers,Delhi,Cochin,1,10791,27,6,6,0,6,35
+8687,Vistara,Delhi,Cochin,0,6216,6,9,14,40,3,10
+8888,IndiGo,Delhi,Cochin,1,6416,6,1,11,25,9,35
+1752,Jet Airways,Delhi,Cochin,1,12373,18,5,21,50,6,35
+1665,Air India,Banglore,New Delhi,3,12346,3,1,5,50,30,25
+212,Multiple carriers,Delhi,Cochin,1,9646,6,6,7,5,9,5
+3438,Air India,Delhi,Cochin,2,12497,24,6,13,15,18,25
+2484,SpiceJet,Mumbai,Hyderabad,0,2647,6,6,5,45,1,30
+5024,Air Asia,Kolkata,Banglore,1,5192,15,4,7,35,15,55
+1012,IndiGo,Kolkata,Banglore,0,4462,21,3,20,25,2,40
+323,Jet Airways,Banglore,New Delhi,1,11507,3,12,9,45,14,45
+10553,Jet Airways,Delhi,Cochin,1,12373,18,5,15,0,13,25
+1102,Jet Airways,Kolkata,Banglore,1,8066,5,6,17,0,16,45
+9397,Jet Airways,Kolkata,Banglore,1,12681,4,1,6,30,13,20
+1569,Air Asia,Delhi,Cochin,1,7452,18,5,7,55,14,30
+7657,Vistara Premium economy,Chennai,Kolkata,0,9125,3,1,7,5,2,15
+334,SpiceJet,Banglore,Delhi,0,3971,24,5,21,10,2,55
+6936,IndiGo,Banglore,New Delhi,0,5694,24,3,4,0,2,50
+4420,Air India,Kolkata,Banglore,2,14960,6,12,9,50,23,5
+8170,Jet Airways,Banglore,New Delhi,1,15025,3,6,8,55,24,5
+7224,Vistara,Banglore,Delhi,0,5613,18,4,17,0,2,35
+3061,IndiGo,Chennai,Kolkata,0,3858,18,6,11,35,2,25
+1620,Jet Airways,Banglore,Delhi,0,7229,5,3,8,20,3,0
+4282,Jet Airways,Kolkata,Banglore,1,13941,5,6,6,30,25,45
+794,Jet Airways,Delhi,Cochin,2,16704,18,5,13,25,29,35
+233,Jet Airways,Delhi,Cochin,1,13843,3,9,2,15,17,30
+10613,Jet Airways,Banglore,Delhi,0,8016,6,3,18,55,3,5
+9049,Air India,Delhi,Cochin,1,7480,15,6,12,30,20,55
+6326,Multiple carriers,Delhi,Cochin,1,12192,6,6,7,0,12,0
+7029,Jet Airways,Kolkata,Banglore,1,13941,18,5,5,45,26,30
+7947,Air India,Delhi,Cochin,2,18211,3,9,18,30,24,45
+10411,Multiple carriers,Delhi,Cochin,1,13082,3,9,6,40,12,35
+4696,Jet Airways,Kolkata,Banglore,1,12681,4,1,18,55,13,20
+6072,Jet Airways,Banglore,Delhi,0,4030,5,6,11,10,2,55
+4413,SpiceJet,Chennai,Kolkata,0,3859,5,6,8,20,2,15
+9705,Air India,Kolkata,Banglore,2,15170,18,5,16,45,19,45
+10362,Jet Airways,Delhi,Cochin,1,15764,3,6,22,20,6,5
+8527,Air India,Banglore,Delhi,0,6121,5,1,21,5,2,50
+4668,IndiGo,Banglore,New Delhi,0,11934,3,1,7,10,2,55
+4921,Vistara,Banglore,Delhi,0,4668,6,9,21,0,2,50
+3357,Multiple carriers,Delhi,Cochin,1,15078,5,9,18,15,7,15
+775,IndiGo,Chennai,Kolkata,0,3540,15,5,5,15,2,25
+1501,Multiple carriers,Delhi,Cochin,1,14533,18,5,9,0,10,15
+5094,Jet Airways,Delhi,Cochin,1,10262,6,12,10,0,18,25
+873,Jet Airways,Kolkata,Banglore,1,11467,4,1,9,35,9,35
+5298,SpiceJet,Kolkata,Banglore,0,4174,6,9,9,0,2,25
+3041,Air India,Kolkata,Banglore,2,11432,5,9,8,20,12,5
+1268,Jet Airways,Banglore,New Delhi,1,11455,18,3,7,0,24,40
+1625,Air India,Delhi,Cochin,2,10467,6,1,13,15,20,10
+5254,SpiceJet,Kolkata,Banglore,1,7646,4,1,15,55,5,30
+5383,GoAir,Delhi,Cochin,1,5140,27,4,7,25,6,10
+4435,Air India,Delhi,Cochin,2,12646,27,6,12,55,30,20
+10226,Air Asia,Delhi,Cochin,1,6151,21,3,16,45,14,25
+1769,Air India,Delhi,Cochin,1,8372,15,6,21,0,10,40
+5218,IndiGo,Delhi,Cochin,1,6937,3,9,21,5,4,40
+7282,Air Asia,Banglore,Delhi,0,7120,6,3,23,55,2,50
+1225,Jet Airways,Banglore,New Delhi,1,12284,18,3,5,45,6,40
+3134,Jet Airways,Mumbai,Hyderabad,0,8040,24,5,7,5,1,25
+1776,GoAir,Delhi,Cochin,1,6296,18,5,7,25,6,10
+6851,Jet Airways,Kolkata,Banglore,1,12692,6,12,9,35,9,35
+408,Multiple carriers,Delhi,Cochin,1,14848,6,3,13,0,6,15
+10534,SpiceJet,Kolkata,Banglore,0,3841,18,4,9,0,2,25
+8495,IndiGo,Banglore,Delhi,0,4823,27,4,18,25,2,55
+1520,Air India,Delhi,Cochin,2,10441,5,9,22,0,21,15
+2648,Jet Airways,Kolkata,Banglore,1,10844,6,6,8,25,9,50
+2774,Jet Airways,Kolkata,Banglore,1,14151,24,5,9,35,11,30
+9620,Jet Airways,Delhi,Cochin,1,10262,6,9,21,50,14,45
+5608,Jet Airways,Delhi,Cochin,0,7202,6,3,11,0,3,15
+5264,IndiGo,Delhi,Cochin,1,5298,4,1,6,50,5,20
+7376,Jet Airways,Banglore,Delhi,0,5769,24,6,11,10,2,55
+9594,Jet Airways,Banglore,New Delhi,1,11087,3,12,22,55,14,20
+6725,Jet Airways,Banglore,New Delhi,1,9134,15,3,5,45,12,40
+7745,Jet Airways,Kolkata,Banglore,1,13067,5,9,9,35,11,30
+7983,IndiGo,Banglore,New Delhi,1,8707,3,1,13,40,4,55
+2534,Multiple carriers,Delhi,Cochin,1,15147,3,6,19,0,6,35
+3506,Air India,Kolkata,Banglore,0,5510,15,6,14,15,2,30
+7878,Jet Airways,Banglore,New Delhi,1,7832,21,3,14,5,6,15
+8753,SpiceJet,Banglore,Delhi,0,4423,4,9,9,30,2,50
+8939,Jet Airways,Kolkata,Banglore,1,13941,15,5,6,30,22,10
+2352,Air India,Banglore,Delhi,0,5228,27,4,21,5,2,50
+2552,Multiple carriers,Delhi,Cochin,1,7670,18,5,12,50,12,40
+8680,Air India,Kolkata,Banglore,2,10676,5,1,12,0,9,50
+9158,Jet Airways,Delhi,Cochin,2,14237,6,3,18,25,18,10
+9198,Air India,Banglore,New Delhi,2,7642,21,3,8,15,27,5
+5431,IndiGo,Banglore,Delhi,0,3943,15,5,21,15,3,0
+6453,IndiGo,Mumbai,Hyderabad,0,3838,18,5,16,55,1,30
+7881,Jet Airways,Delhi,Cochin,2,17229,3,9,13,55,14,30
+9132,IndiGo,Kolkata,Banglore,0,4804,6,6,21,25,2,40
+4059,IndiGo,Banglore,Delhi,0,4823,5,12,18,55,2,55
+2174,IndiGo,Delhi,Cochin,1,7205,3,6,16,10,6,10
+9749,Jet Airways,Delhi,Cochin,1,10262,6,3,10,0,9,0
+5387,GoAir,Banglore,New Delhi,0,18558,3,1,20,55,2,55
+1505,Multiple carriers,Delhi,Cochin,1,9646,6,12,7,5,9,5
+1936,Jet Airways,Delhi,Cochin,2,15129,3,9,13,45,14,40
+1486,IndiGo,Delhi,Cochin,0,6015,6,9,21,5,3,15
+9638,Air Asia,Kolkata,Banglore,0,5645,21,4,22,50,2,30
+2085,IndiGo,Banglore,New Delhi,0,14306,3,1,18,55,2,50
+9771,Air India,Banglore,New Delhi,1,7013,15,3,10,30,24,50
+617,Jet Airways,Delhi,Cochin,1,7438,27,3,23,5,20,40
+1679,Air India,Delhi,Cochin,2,10975,6,3,9,45,23,40
+4936,Multiple carriers,Delhi,Cochin,1,14848,6,12,10,0,9,15
+3113,Air India,Delhi,Cochin,1,5704,21,3,6,10,16,50
+465,Jet Airways,Kolkata,Banglore,1,14388,5,12,18,55,9,45
+4127,Air India,Delhi,Cochin,1,5117,4,1,20,40,12,45
+8646,IndiGo,Delhi,Cochin,1,14871,3,6,6,40,14,20
+7406,GoAir,Delhi,Cochin,1,7870,6,12,14,25,5,10
+8491,Jet Airways,Delhi,Cochin,2,7791,21,3,10,45,17,40
+3055,Air India,Banglore,New Delhi,1,4943,21,3,8,15,10,15
+4850,IndiGo,Banglore,Delhi,0,4990,4,12,21,15,3,0
+9506,Jet Airways,Mumbai,Hyderabad,0,3205,4,3,10,20,1,30
+7046,Jet Airways,Banglore,New Delhi,1,19225,3,6,8,0,7,15
+746,IndiGo,Delhi,Cochin,1,14871,3,6,7,30,8,0
+10213,Vistara,Kolkata,Banglore,1,12102,24,3,20,20,22,25
+9165,Jet Airways,Delhi,Cochin,1,14924,6,9,19,45,23,15
+8355,Air India,Mumbai,Hyderabad,0,3100,18,5,13,55,1,30
+3161,Air India,Banglore,New Delhi,2,12599,3,3,6,45,28,25
+9308,SpiceJet,Kolkata,Banglore,0,3841,15,5,9,0,2,25
+711,SpiceJet,Mumbai,Hyderabad,0,2017,5,12,5,45,1,30
+379,Jet Airways,Banglore,New Delhi,1,11087,18,3,16,55,16,5
+5214,Jet Airways,Banglore,New Delhi,1,7832,21,3,14,5,21,20
+4605,SpiceJet,Banglore,Delhi,0,4885,21,4,9,30,2,50
+9436,Jet Airways,Kolkata,Banglore,1,10844,5,6,8,25,11,25
+7962,Air India,Kolkata,Banglore,2,6117,6,12,9,10,19,30
+4688,IndiGo,Banglore,New Delhi,0,6144,24,3,21,20,2,55
+8299,Jet Airways,Kolkata,Banglore,1,12384,21,5,20,25,13,20
+4989,Jet Airways,Kolkata,Banglore,1,14151,18,5,17,0,28,5
+3170,Jet Airways,Banglore,New Delhi,1,7832,21,3,16,55,17,30
+8080,Multiple carriers,Delhi,Cochin,2,24528,3,3,17,50,7,45
+7809,Jet Airways,Delhi,Cochin,1,15764,3,6,9,55,18,30
+4617,Jet Airways,Delhi,Cochin,1,14714,6,1,18,15,24,45
+1318,Air India,Banglore,New Delhi,2,11161,18,3,11,5,35,5
+2842,Air India,Delhi,Cochin,1,7480,5,1,20,40,12,45
+5217,Jet Airways,Banglore,Delhi,0,7229,24,5,7,10,3,0
+10225,Air India,Delhi,Cochin,1,6902,21,3,9,0,10,15
+3029,GoAir,Delhi,Cochin,1,5281,6,12,7,0,5,55
+6915,Air India,Kolkata,Banglore,1,7452,5,6,9,50,11,15
+5353,Air India,Mumbai,Hyderabad,0,3100,6,1,6,20,1,20
+653,Jet Airways,Delhi,Cochin,1,12898,27,5,19,15,17,20
+8605,Multiple carriers,Delhi,Cochin,1,9794,15,5,6,0,6,35
+3908,Jet Airways,Kolkata,Banglore,1,8066,5,6,20,25,27,10
+6623,IndiGo,Delhi,Cochin,1,6838,6,3,9,15,11,45
+7621,Air India,Kolkata,Banglore,1,8576,18,5,9,25,9,5
+6711,SpiceJet,Kolkata,Banglore,0,3873,24,6,17,10,2,30
+7849,IndiGo,Delhi,Cochin,1,6316,27,3,17,10,8,25
+5774,Jet Airways,Banglore,Delhi,0,5198,18,5,7,10,3,0
+4189,Multiple carriers,Delhi,Cochin,1,6916,3,6,7,5,15,15
+611,Air India,Delhi,Cochin,1,6745,21,3,23,0,20,15
+4065,IndiGo,Banglore,New Delhi,0,6860,21,3,7,10,2,55
+4565,Air India,Delhi,Cochin,1,8372,15,5,8,0,11,15
+511,SpiceJet,Mumbai,Hyderabad,0,5755,3,9,8,50,1,25
+4846,Jet Airways,Banglore,New Delhi,1,11087,3,12,18,55,24,15
+2566,Multiple carriers,Delhi,Cochin,1,6916,3,9,7,5,15,15
+6730,Air India,Kolkata,Banglore,2,10151,5,6,12,0,19,55
+3922,Jet Airways,Kolkata,Banglore,1,10844,6,9,18,55,23,20
+7546,Multiple carriers,Delhi,Cochin,1,7354,6,12,11,25,7,50
+3528,IndiGo,Delhi,Cochin,1,7164,27,5,2,0,5,25
+6608,Jet Airways,Banglore,Delhi,0,7229,5,1,17,45,3,0
+6618,Jet Airways,Delhi,Cochin,1,10262,27,6,19,15,23,45
+8398,Jet Airways,Mumbai,Hyderabad,0,5678,15,6,19,35,1,30
+5333,Vistara,Kolkata,Banglore,1,9345,15,5,7,10,16,15
+10172,IndiGo,Delhi,Cochin,1,7640,18,5,14,20,8,10
